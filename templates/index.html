@@ -7,10 +7,9 @@
         body {
             font-family: Arial, sans-serif;
         }
-        /* Container div to center all content */
         .container {
             width: 900px;
-            margin: 0 auto; /* this centers the div horizontally */
+            margin: 0 auto;
             text-align: center;
         }
         table {
@@ -32,73 +31,111 @@
 </head>
 <body>
     <div class="container">
-        <h2>Chọn khu vực để dự đoán nhu cầu nhân lực:</h2>
+        <h2>Dự đoán nhu cầu nhân lực:</h2>
+        <select id="monthSelect">
+            {% for m in range(1, 13) %}
+                <option value="{{m}}" {% if m == 4 %}selected{% endif %}>Tháng {{m}}</option>
+            {% endfor %}
+        </select>
+        
+        <select id="yearSelect">
+            {% for y in range(2025, 2031) %}
+                <option value="{{y}}" {% if y == 2025 %}selected{% endif %}>{{y}}</option>
+            {% endfor %}
+        </select>
+        
         <select id="provinceSelect">
             {% for province in provinces %}
                 <option value="{{province}}">{{province}}</option>
             {% endfor %}
         </select>
+
+        <select id="jobMajorSelect">
+            <option value="Tất cả">Tất cả ngành nghề</option>
+            {% for major in job_majors %}
+                <option value="{{major}}">{{major}}</option>
+            {% endfor %}
+        </select>
+
         <button onclick="showPrediction()">Dự đoán</button>
 
         <div id="pieChart" style="width:850px;height:650px;margin-top:20px;"></div>
-
+        <div id="resultDisplay"></div>
         <div id="dataTable"></div>
     </div>
 
     <script>
         function showPrediction() {
+            let month = document.getElementById('monthSelect').value;
+            let year = document.getElementById('yearSelect').value;
             let province = document.getElementById('provinceSelect').value;
+            let job_major = document.getElementById('jobMajorSelect').value;
+
+            if (month !== "4" || year !== "2025") {
+                alert("⚠️ Dự đoán hiện tại chỉ hỗ trợ cho tháng 4 năm 2025.");
+                window.location.reload();  // Refresh the page
+                return;
+            }
+
+
             fetch('/get_pie_chart_data', {
                 method: 'POST',
                 headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({province: province})
+                body: JSON.stringify({province: province, job_major: job_major})
             })
             .then(response => response.json())
             .then(data => {
-                // Pie Chart without percentage labels
-                let plotData = [{
-                    values: data.values,
-                    labels: data.labels,
-                    type: 'pie',
-                    textinfo: 'none', // still no labels on the pie itself
-                    hoverinfo: 'label+value+percent', // <-- this adds percentage on hover
-                    marker: { colors: Plotly.d3.schemeCategory20 }
-                }];
+                const pieDiv = document.getElementById('pieChart');
+                const resultDiv = document.getElementById('resultDisplay');
+                const tableDiv = document.getElementById('dataTable');
 
+                pieDiv.innerHTML = '';
+                resultDiv.innerHTML = '';
+                tableDiv.innerHTML = '';
 
-                let layout = {
-                    title: `Nhu cầu nhân lực các ngành nghề tháng 4/2025 ở ${province}`,
-                    height: 650,
-                    width: 850,
-                    margin: {l: 100, r: 100, b: 100, t: 100},
-                    showlegend: true
-                };
+                if (data.type === 'single_value') {
+                    resultDiv.innerHTML = `<h3>Nhu cầu nhân lực cho ngành <strong>${data.job_major}</strong> tại <strong>${data.location}</strong> trong tháng 4/2025 là: <strong>${data.value}</strong> người.</h3>`;
+                } else {
+                    let plotData = [{
+                        values: data.values,
+                        labels: data.labels,
+                        type: 'pie',
+                        textinfo: 'none',
+                        hoverinfo: 'label+value+percent'
+                    }];
 
-                Plotly.newPlot('pieChart', plotData, layout);
+                    let layout = {
+                        title: `Nhu cầu nhân lực các ngành nghề tháng 4/2025 ở ${province}`,
+                        height: 650,
+                        width: 850,
+                        margin: {l: 100, r: 100, b: 100, t: 100},
+                        showlegend: true
+                    };
 
-                // Generating Table clearly displaying data
-                let tableHTML = `
-                    <table>
-                        <tr>
-                            <th>Ngành nghề</th>
-                            <th>Nhu cầu</th>
-                            <th>Tỉ trọng (%)</th>
-                        </tr>
-                `;
+                    Plotly.newPlot('pieChart', plotData, layout);
 
-                for (let i = 0; i < data.labels.length; i++) {
-                    tableHTML += `
-                        <tr>
-                            <td>${data.labels[i]}</td>
-                            <td>${data.values[i]}</td>
-                            <td>${data.percentages[i]}%</td>
-                        </tr>
+                    let tableHTML = `
+                        <table>
+                            <tr>
+                                <th>Ngành nghề</th>
+                                <th>Nhu cầu</th>
+                                <th>Tỉ trọng (%)</th>
+                            </tr>
                     `;
+
+                    for (let i = 0; i < data.labels.length; i++) {
+                        tableHTML += `
+                            <tr>
+                                <td>${data.labels[i]}</td>
+                                <td>${data.values[i]}</td>
+                                <td>${data.percentages[i]}%</td>
+                            </tr>
+                        `;
+                    }
+
+                    tableHTML += '</table>';
+                    tableDiv.innerHTML = tableHTML;
                 }
-
-                tableHTML += '</table>';
-
-                document.getElementById('dataTable').innerHTML = tableHTML;
             });
         }
     </script>
