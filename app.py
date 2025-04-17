@@ -5,7 +5,9 @@ from pymongo import MongoClient
 app = Flask(__name__)
 
 # Connect to MongoDB Atlas
-client = MongoClient("mongodb+srv://nguyenthecong1106:IjfEKO3CtSt1frQl@cluster0.3nhkobx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0db = client['job_demand_db']")
+MONGO_URI = "mongodb+srv://nguyenthecong1106:IjfEKO3CtSt1frQl@cluster0.3nhkobx.mongodb.net/job_demand_db?retryWrites=true&w=majority"
+client = MongoClient(MONGO_URI, tls=True, serverSelectionTimeoutMS=5000)
+
 db = client['job_demand_db']
 collection = db['april_prediction']
 
