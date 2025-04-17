@@ -1,0 +1,1519 @@
+workingLocations,job_major,January,February,March,April_Prediction,April_Model_Prediction
+An Giang,Bảo hiểm,0.0,1.0,0.0,1,1
+An Giang,Bất Động Sản/Cho thuê,2.0,0.0,0.0,2,2
+An Giang,Dược phẩm,1.0,0.0,0.0,2,2
+An Giang,Dệt may/May mặc/Giày dép,2.0,0.0,0.0,2,2
+An Giang,Ngân hàng,1.0,0.0,0.0,1,1
+An Giang,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,1.0,0.0,0.0,1,1
+Bà Rịa-Vũng Tàu,Bán lẻ/Bán sỉ,2.0,2.0,0.0,2,2
+Bà Rịa-Vũng Tàu,Bảo hiểm,0.0,0.0,2.0,2,2
+Bà Rịa-Vũng Tàu,Bất Động Sản/Cho thuê,4.0,0.0,6.0,5,6
+Bà Rịa-Vũng Tàu,Cơ khí/Máy móc/Thiết bị công nghiệp,4.0,0.0,4.0,5,5
+Bà Rịa-Vũng Tàu,Dệt may/May mặc/Giày dép,6.0,0.0,0.0,5,5
+Bà Rịa-Vũng Tàu,Dịch vụ Y tế/Chăm sóc sức khỏe,2.0,0.0,0.0,3,3
+Bà Rịa-Vũng Tàu,Dịch vụ kho bãi,2.0,0.0,0.0,3,3
+Bà Rịa-Vũng Tàu,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,2.0,0.0,2.0,2,2
+Bà Rịa-Vũng Tàu,Dịch vụ môi trường/Chất thải,0.0,2.0,2.0,3,3
+Bà Rịa-Vũng Tàu,Giáo dục/Đào Tạo,10.0,0.0,0.0,16,14
+Bà Rịa-Vũng Tàu,Hoá chất/Hoá sinh,8.0,0.0,0.0,10,10
+Bà Rịa-Vũng Tàu,Hàng tiêu dùng,22.0,0.0,6.0,26,27
+Bà Rịa-Vũng Tàu,Hậu cần/Giao nhận,2.0,0.0,12.0,19,19
+Bà Rịa-Vũng Tàu,Hệ thống CNTT & Thiết bị,4.0,0.0,0.0,6,6
+Bà Rịa-Vũng Tàu,Khai khoáng/Dầu khí,6.0,0.0,0.0,5,6
+Bà Rịa-Vũng Tàu,Kỹ thuật xây dựng/Cơ sở hạ tầng,28.0,0.0,0.0,45,40
+Bà Rịa-Vũng Tàu,Ngân hàng,10.0,0.0,2.0,12,13
+Bà Rịa-Vũng Tàu,Nhựa & Cao su,4.0,0.0,0.0,3,5
+Bà Rịa-Vũng Tàu,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,2.0,2,2
+Bà Rịa-Vũng Tàu,Nội thất/Gỗ,4.0,0.0,0.0,5,5
+Bà Rịa-Vũng Tàu,Sản xuất,46.0,8.0,12.0,55,53
+Bà Rịa-Vũng Tàu,Sản xuất và Phân phối Điện/Khí đốt/Nước,4.0,0.0,0.0,5,5
+Bà Rịa-Vũng Tàu,Tự động hoá,8.0,0.0,0.0,13,12
+Bà Rịa-Vũng Tàu,Ô tô,4.0,0.0,0.0,5,5
+Bà Rịa-Vũng Tàu,Điện/Điện tử,0.0,8.0,2.0,10,10
+Bình Dương,Bao bì/In ấn/Dán nhãn,4.0,1.0,0.0,3,4
+Bình Dương,Bán lẻ/Bán sỉ,4.0,2.0,3.0,5,5
+Bình Dương,Bảo hiểm,0.0,1.0,0.0,1,1
+Bình Dương,Bất Động Sản/Cho thuê,3.0,1.0,4.0,4,4
+Bình Dương,Chuỗi cung ứng,1.0,0.0,1.0,2,2
+Bình Dương,Cơ khí/Máy móc/Thiết bị công nghiệp,11.0,1.0,7.0,13,14
+Bình Dương,Dược phẩm,6.0,0.0,2.0,10,9
+Bình Dương,Dệt may/May mặc/Giày dép,3.0,1.0,2.0,2,2
+Bình Dương,Dịch vụ Y tế/Chăm sóc sức khỏe,3.0,0.0,1.0,5,5
+Bình Dương,Dịch vụ kho bãi,0.0,0.0,2.0,3,3
+Bình Dương,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,2.0,0.0,0.0,2,2
+Bình Dương,Dịch vụ môi trường/Chất thải,0.0,0.0,3.0,5,5
+Bình Dương,Giáo dục/Đào Tạo,1.0,0.0,3.0,5,4
+Bình Dương,Hoá chất/Hoá sinh,7.0,1.0,3.0,8,9
+Bình Dương,Hàng tiêu dùng,12.0,2.0,7.0,14,14
+Bình Dương,Hậu cần/Giao nhận,4.0,2.0,3.0,6,6
+Bình Dương,Khai khoáng/Dầu khí,1.0,0.0,0.0,1,1
+Bình Dương,Kiến trúc/Thiết kế nội thất,3.0,3.0,3.0,4,4
+Bình Dương,Kế toán/Kiểm toán,2.0,0.0,0.0,2,2
+Bình Dương,Kỹ thuật xây dựng/Cơ sở hạ tầng,5.0,4.0,2.0,8,7
+Bình Dương,Luật/Dịch vụ pháp lý,0.0,0.0,1.0,1,1
+Bình Dương,Ngân hàng,3.0,1.0,4.0,5,5
+Bình Dương,Nhập khẩu/Xuất khẩu,2.0,3.0,0.0,3,3
+Bình Dương,Nhựa & Cao su,2.0,0.0,2.0,2,2
+Bình Dương,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,12.0,3.0,1.0,14,14
+Bình Dương,Nội thất/Gỗ,16.0,9.0,2.0,19,17
+Bình Dương,Phần Mềm CNTT/Dịch vụ Phần mềm,2.0,0.0,0.0,3,3
+Bình Dương,Sản xuất,61.0,17.0,42.0,73,74
+Bình Dương,Thương mại điện tử,0.0,0.0,1.0,2,2
+Bình Dương,Thời trang/Trang sức,1.0,0.0,0.0,1,1
+Bình Dương,Tài Chính,0.0,0.0,1.0,2,2
+Bình Dương,Tự động hoá,0.0,2.0,2.0,3,3
+Bình Dương,Vận tải,5.0,1.0,1.0,6,6
+Bình Dương,Vật liệu xây dựng,1.0,0.0,0.0,1,1
+Bình Dương,Ô tô,0.0,0.0,1.0,1,1
+Bình Dương,Điện/Điện tử,6.0,7.0,20.0,24,24
+Bình Phước,Bán lẻ/Bán sỉ,0.0,0.0,1.0,1,1
+Bình Phước,Hàng tiêu dùng,3.0,0.0,1.0,4,4
+Bình Phước,Ngân hàng,1.0,1.0,0.0,1,1
+Bình Phước,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,1.0,1,1
+Bình Phước,Tự động hoá,0.0,1.0,0.0,2,2
+Bình Thuận,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,1.0,0.0,1.0,1,1
+Bình Thuận,Hậu cần/Giao nhận,0.0,0.0,1.0,2,2
+Bình Thuận,Kỹ thuật xây dựng/Cơ sở hạ tầng,4.0,0.0,0.0,6,6
+Bình Thuận,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,1.0,0.0,0.0,1,1
+Bình Thuận,Sản xuất,0.0,0.0,3.0,4,4
+Bình Định,Bán lẻ/Bán sỉ,1.0,0.0,0.0,1,1
+Bình Định,Bất Động Sản/Cho thuê,1.0,0.0,0.0,1,1
+Bình Định,Dược phẩm,1.0,0.0,0.0,2,2
+Bình Định,Dịch vụ Y tế/Chăm sóc sức khỏe,5.0,0.0,0.0,8,7
+Bình Định,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,3.0,0.0,0.0,4,4
+Bình Định,Giáo dục/Đào Tạo,0.0,2.0,0.0,3,3
+Bình Định,Hàng tiêu dùng,3.0,0.0,0.0,4,4
+Bình Định,Kỹ thuật xây dựng/Cơ sở hạ tầng,1.0,0.0,0.0,2,2
+Bình Định,Ngân hàng,1.0,1.0,0.0,1,1
+Bình Định,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,1.0,1,1
+Bình Định,Nội thất/Gỗ,1.0,1.0,1.0,1,1
+Bình Định,Sản xuất,5.0,2.0,1.0,6,6
+Bình Định,Điện/Điện tử,3.0,0.0,0.0,4,4
+Bạc Liêu,Cơ khí/Máy móc/Thiết bị công nghiệp,1.0,0.0,0.0,1,1
+Bạc Liêu,Dược phẩm,2.0,0.0,0.0,3,3
+Bạc Liêu,Ngân hàng,0.0,0.0,2.0,2,2
+Bắc Giang,Bán lẻ/Bán sỉ,0.0,0.0,1.0,1,1
+Bắc Giang,Bất Động Sản/Cho thuê,6.0,0.0,0.0,5,5
+Bắc Giang,Cung cấp nhân lực,1.0,0.0,0.0,1,1
+Bắc Giang,Cơ khí/Máy móc/Thiết bị công nghiệp,1.0,0.0,3.0,4,4
+Bắc Giang,Dệt may/May mặc/Giày dép,2.0,0.0,2.0,2,2
+Bắc Giang,Dịch vụ Y tế/Chăm sóc sức khỏe,3.0,0.0,0.0,5,5
+Bắc Giang,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,0.0,1.0,1,1
+Bắc Giang,Hàng tiêu dùng,0.0,1.0,1.0,1,1
+Bắc Giang,Khai khoáng/Dầu khí,1.0,0.0,0.0,1,1
+Bắc Giang,Kỹ thuật xây dựng/Cơ sở hạ tầng,2.0,1.0,5.0,8,7
+Bắc Giang,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Bắc Giang,Ngân hàng,1.0,1.0,0.0,1,1
+Bắc Giang,Sản xuất,8.0,6.0,27.0,32,35
+Bắc Giang,Tài Chính,1.0,0.0,0.0,2,2
+Bắc Giang,Tự động hoá,0.0,1.0,0.0,2,2
+Bắc Giang,Ô tô,3.0,0.0,0.0,4,4
+Bắc Giang,Điện/Điện tử,4.0,3.0,6.0,7,7
+Bắc Ninh,Bao bì/In ấn/Dán nhãn,2.0,2.0,1.0,2,2
+Bắc Ninh,Bán lẻ/Bán sỉ,4.0,2.0,1.0,5,5
+Bắc Ninh,Bất Động Sản/Cho thuê,6.0,0.0,0.0,5,5
+Bắc Ninh,Chuỗi cung ứng,3.0,0.0,0.0,5,5
+Bắc Ninh,Cung cấp nhân lực,2.0,0.0,0.0,2,2
+Bắc Ninh,Cơ khí/Máy móc/Thiết bị công nghiệp,15.0,1.0,6.0,18,17
+Bắc Ninh,Dệt may/May mặc/Giày dép,1.0,0.0,1.0,1,1
+Bắc Ninh,Dịch vụ Y tế/Chăm sóc sức khỏe,1.0,1.0,2.0,3,3
+Bắc Ninh,Dịch vụ kho bãi,0.0,1.0,0.0,2,2
+Bắc Ninh,Dịch vụ môi trường/Chất thải,0.0,1.0,0.0,2,2
+Bắc Ninh,Giáo dục/Đào Tạo,3.0,0.0,1.0,5,5
+Bắc Ninh,Hoá chất/Hoá sinh,3.0,2.0,0.0,4,4
+Bắc Ninh,Hàng tiêu dùng,2.0,1.0,0.0,2,2
+Bắc Ninh,Hậu cần/Giao nhận,4.0,0.0,3.0,6,6
+Bắc Ninh,Hệ thống CNTT & Thiết bị,1.0,0.0,0.0,2,2
+Bắc Ninh,Kế toán/Kiểm toán,3.0,0.0,1.0,3,4
+Bắc Ninh,Kỹ thuật xây dựng/Cơ sở hạ tầng,18.0,4.0,5.0,29,27
+Bắc Ninh,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Bắc Ninh,Ngân hàng,2.0,4.0,3.0,5,5
+Bắc Ninh,Nhập khẩu/Xuất khẩu,1.0,0.0,0.0,1,1
+Bắc Ninh,Nhựa & Cao su,0.0,1.0,0.0,1,1
+Bắc Ninh,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,1.0,0.0,2,2
+Bắc Ninh,Sản xuất,70.0,22.0,42.0,84,83
+Bắc Ninh,Sản xuất và Phân phối Điện/Khí đốt/Nước,1.0,0.0,0.0,1,1
+Bắc Ninh,Thiết bị y tế,0.0,0.0,1.0,2,2
+Bắc Ninh,Truyền thông/Báo chí/Quảng cáo,0.0,0.0,2.0,2,2
+Bắc Ninh,Tự động hoá,0.0,1.0,3.0,5,5
+Bắc Ninh,Vận tải,1.0,2.0,0.0,2,2
+Bắc Ninh,Vật liệu xây dựng,2.0,0.0,1.0,2,2
+Bắc Ninh,Ô tô,1.0,0.0,1.0,1,1
+Bắc Ninh,Điện/Điện tử,26.0,7.0,11.0,31,31
+Bến Tre,Bảo hiểm,0.0,1.0,0.0,1,1
+Bến Tre,Hàng tiêu dùng,1.0,0.0,0.0,1,1
+Bến Tre,Ngân hàng,1.0,0.0,0.0,1,1
+Bến Tre,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,4.0,1.0,0.0,5,5
+Bến Tre,Sản xuất,0.0,0.0,2.0,2,2
+Cao Bằng,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,1.0,2,2
+Cà Mau,Bất Động Sản/Cho thuê,2.0,0.0,0.0,2,2
+Cà Mau,Hoá chất/Hoá sinh,0.0,0.0,2.0,2,2
+Cà Mau,Ngân hàng,0.0,1.0,0.0,1,1
+Cà Mau,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,2.0,2,2
+Cần Thơ,Bán lẻ/Bán sỉ,0.0,0.0,2.0,2,2
+Cần Thơ,Bảo hiểm,0.0,2.0,0.0,2,2
+Cần Thơ,Bất Động Sản/Cho thuê,1.0,0.0,0.0,1,1
+Cần Thơ,Cơ khí/Máy móc/Thiết bị công nghiệp,1.0,0.0,0.0,1,1
+Cần Thơ,Dược phẩm,4.0,0.0,3.0,6,6
+Cần Thơ,Dệt may/May mặc/Giày dép,3.0,0.0,1.0,2,2
+Cần Thơ,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,4.0,2.0,6,6
+Cần Thơ,Dịch vụ môi trường/Chất thải,1.0,0.0,0.0,2,2
+Cần Thơ,Giáo dục/Đào Tạo,3.0,0.0,0.0,5,5
+Cần Thơ,Hoá chất/Hoá sinh,0.0,0.0,2.0,2,2
+Cần Thơ,Hàng tiêu dùng,2.0,2.0,3.0,4,4
+Cần Thơ,Hậu cần/Giao nhận,3.0,0.0,1.0,5,5
+Cần Thơ,Khai khoáng/Dầu khí,1.0,0.0,0.0,1,1
+Cần Thơ,Kiến trúc/Thiết kế nội thất,0.0,0.0,1.0,1,1
+Cần Thơ,Kế toán/Kiểm toán,0.0,0.0,1.0,1,1
+Cần Thơ,Ngân hàng,3.0,9.0,3.0,11,11
+Cần Thơ,Nội thất/Gỗ,1.0,0.0,0.0,1,1
+Cần Thơ,Thời trang/Trang sức,1.0,0.0,0.0,1,1
+Cần Thơ,Vật liệu xây dựng,0.0,2.0,0.0,2,2
+Cần Thơ,Ô tô,0.0,1.0,0.0,1,1
+Gia Lai,Hoá chất/Hoá sinh,0.0,0.0,2.0,2,2
+Gia Lai,Hàng tiêu dùng,0.0,0.0,1.0,1,1
+Gia Lai,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,1.0,0.0,5.0,6,6
+Hà Giang,Dược phẩm,1.0,0.0,0.0,2,2
+Hà Giang,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,1.0,2,2
+Hà Nam,Bao bì/In ấn/Dán nhãn,2.0,0.0,1.0,2,2
+Hà Nam,Bất Động Sản/Cho thuê,1.0,0.0,2.0,2,2
+Hà Nam,Cơ khí/Máy móc/Thiết bị công nghiệp,6.0,0.0,0.0,7,7
+Hà Nam,Dệt may/May mặc/Giày dép,2.0,0.0,1.0,2,2
+Hà Nam,Dịch vụ Y tế/Chăm sóc sức khỏe,3.0,0.0,0.0,5,5
+Hà Nam,Dịch vụ kho bãi,1.0,0.0,0.0,2,2
+Hà Nam,Hàng tiêu dùng,10.0,1.0,0.0,12,12
+Hà Nam,Hậu cần/Giao nhận,0.0,1.0,0.0,2,2
+Hà Nam,Kiến trúc/Thiết kế nội thất,2.0,1.0,0.0,2,2
+Hà Nam,Kế toán/Kiểm toán,1.0,0.0,0.0,1,1
+Hà Nam,Kỹ thuật xây dựng/Cơ sở hạ tầng,6.0,1.0,5.0,10,9
+Hà Nam,Ngân hàng,6.0,1.0,4.0,7,7
+Hà Nam,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,1.0,0.0,0.0,1,1
+Hà Nam,Phần Mềm CNTT/Dịch vụ Phần mềm,1.0,0.0,0.0,2,2
+Hà Nam,Sản xuất,31.0,8.0,8.0,37,39
+Hà Nam,Tự động hoá,1.0,0.0,0.0,2,2
+Hà Nam,Điện/Điện tử,5.0,0.0,10.0,12,12
+Hà Nội,Bao bì/In ấn/Dán nhãn,5.0,2.0,5.0,4,5
+Hà Nội,Bán lẻ/Bán sỉ,130.0,54.0,97.0,156,158
+Hà Nội,Bảo hiểm,41.0,19.0,21.0,49,52
+Hà Nội,Bất Động Sản/Cho thuê,148.0,135.0,75.0,133,176
+Hà Nội,Chuỗi cung ứng,10.0,2.0,2.0,16,14
+Hà Nội,Chính phủ & NGO,7.0,0.0,3.0,7,9
+Hà Nội,Chứng khoán,15.0,18.0,28.0,34,38
+Hà Nội,Cung cấp nhân lực,27.0,1.0,5.0,32,33
+Hà Nội,Cơ khí/Máy móc/Thiết bị công nghiệp,70.0,36.0,61.0,84,94
+Hà Nội,Dược phẩm,45.0,11.0,22.0,72,64
+Hà Nội,Dệt may/May mặc/Giày dép,41.0,9.0,12.0,33,51
+Hà Nội,Dịch vụ Y tế/Chăm sóc sức khỏe,36.0,19.0,50.0,80,78
+Hà Nội,Dịch vụ kho bãi,3.0,1.0,0.0,5,5
+Hà Nội,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,101.0,74.0,30.0,121,121
+Hà Nội,Dịch vụ môi trường/Chất thải,12.0,4.0,13.0,21,21
+Hà Nội,Giáo dục/Đào Tạo,151.0,45.0,84.0,242,184
+Hà Nội,Hoá chất/Hoá sinh,31.0,13.0,14.0,37,38
+Hà Nội,Hàng tiêu dùng,66.0,21.0,23.0,79,80
+Hà Nội,Hậu cần/Giao nhận,52.0,28.0,37.0,83,76
+Hà Nội,Hệ thống CNTT & Thiết bị,20.0,21.0,16.0,34,35
+Hà Nội,Khai khoáng/Dầu khí,5.0,2.0,5.0,4,5
+Hà Nội,Kiến trúc/Thiết kế nội thất,51.0,23.0,25.0,61,60
+Hà Nội,Kế toán/Kiểm toán,57.0,20.0,17.0,51,55
+Hà Nội,Kỹ thuật xây dựng/Cơ sở hạ tầng,211.0,140.0,193.0,338,317
+Hà Nội,Luật/Dịch vụ pháp lý,16.0,9.0,10.0,19,19
+Hà Nội,Làm đẹp (Mỹ phẩm) & Chăm sóc cá nhân,19.0,5.0,6.0,23,26
+Hà Nội,Nghiên cứu,0.0,3.0,3.0,4,4
+Hà Nội,Nghệ thuật/Giải trí,12.0,1.0,0.0,14,14
+Hà Nội,Ngân hàng,122.0,80.0,121.0,146,163
+Hà Nội,Nhập khẩu/Xuất khẩu,47.0,34.0,21.0,42,45
+Hà Nội,Nhựa & Cao su,0.0,3.0,9.0,7,8
+Hà Nội,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,10.0,9.0,3.0,12,12
+Hà Nội,Nội thất/Gỗ,6.0,6.0,6.0,7,8
+Hà Nội,Phần Mềm CNTT/Dịch vụ Phần mềm,82.0,43.0,110.0,176,172
+Hà Nội,Sản xuất,186.0,121.0,169.0,223,257
+Hà Nội,Sản xuất và Phân phối Điện/Khí đốt/Nước,8.0,0.0,4.0,10,10
+Hà Nội,Thiết bị y tế,10.0,4.0,13.0,21,21
+Hà Nội,Thú y,0.0,0.0,2.0,2,2
+Hà Nội,Thương mại điện tử,16.0,13.0,26.0,42,40
+Hà Nội,Thời trang/Trang sức,14.0,21.0,11.0,25,26
+Hà Nội,Truyền thông/Báo chí/Quảng cáo,31.0,16.0,34.0,31,86
+Hà Nội,Tài Chính,77.0,23.0,37.0,123,110
+Hà Nội,Tự động hoá,8.0,8.0,6.0,13,12
+Hà Nội,Viễn thông,10.0,12.0,17.0,20,26
+Hà Nội,Vận tải,24.0,16.0,20.0,29,33
+Hà Nội,Vật liệu xây dựng,14.0,12.0,19.0,23,25
+Hà Nội,Ô tô,34.0,15.0,24.0,41,47
+Hà Nội,Điện/Điện tử,73.0,36.0,87.0,104,130
+Hà Tĩnh,Bán lẻ/Bán sỉ,0.0,1.0,0.0,1,1
+Hà Tĩnh,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,1.0,0.0,2.0,2,2
+Hà Tĩnh,Dịch vụ môi trường/Chất thải,1.0,0.0,0.0,2,2
+Hà Tĩnh,Hậu cần/Giao nhận,0.0,2.0,2.0,3,3
+Hà Tĩnh,Khai khoáng/Dầu khí,4.0,0.0,0.0,3,4
+Hà Tĩnh,Kỹ thuật xây dựng/Cơ sở hạ tầng,1.0,0.0,2.0,3,3
+Hà Tĩnh,Ngân hàng,3.0,0.0,0.0,4,4
+Hà Tĩnh,Sản xuất,2.0,0.0,49.0,59,64
+Hà Tĩnh,Sản xuất và Phân phối Điện/Khí đốt/Nước,1.0,0.0,0.0,1,1
+Hà Tĩnh,Ô tô,1.0,0.0,10.0,12,12
+Hòa Bình,Bất Động Sản/Cho thuê,5.0,0.0,0.0,4,4
+Hòa Bình,Dệt may/May mặc/Giày dép,2.0,4.0,0.0,3,4
+Hòa Bình,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,2.0,1.0,0.0,2,2
+Hòa Bình,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,2.0,2.0,3,3
+Hòa Bình,Sản xuất,1.0,0.0,0.0,1,1
+Hòa Bình,Tự động hoá,0.0,2.0,0.0,3,3
+Hưng Yên,Bao bì/In ấn/Dán nhãn,2.0,0.0,2.0,2,2
+Hưng Yên,Bán lẻ/Bán sỉ,3.0,3.0,0.0,4,4
+Hưng Yên,Bất Động Sản/Cho thuê,8.0,2.0,0.0,7,9
+Hưng Yên,Cơ khí/Máy móc/Thiết bị công nghiệp,6.0,3.0,4.0,7,7
+Hưng Yên,Dược phẩm,1.0,0.0,0.0,2,2
+Hưng Yên,Dệt may/May mặc/Giày dép,9.0,1.0,0.0,7,9
+Hưng Yên,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,2.0,0.0,3,3
+Hưng Yên,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,3.0,0.0,0.0,4,4
+Hưng Yên,Giáo dục/Đào Tạo,11.0,0.0,0.0,18,16
+Hưng Yên,Hoá chất/Hoá sinh,0.0,1.0,0.0,1,1
+Hưng Yên,Hàng tiêu dùng,16.0,11.0,0.0,19,19
+Hưng Yên,Hậu cần/Giao nhận,3.0,0.0,2.0,5,5
+Hưng Yên,Hệ thống CNTT & Thiết bị,0.0,0.0,5.0,8,7
+Hưng Yên,Kiến trúc/Thiết kế nội thất,1.0,0.0,4.0,5,5
+Hưng Yên,Kế toán/Kiểm toán,8.0,1.0,1.0,7,9
+Hưng Yên,Kỹ thuật xây dựng/Cơ sở hạ tầng,28.0,5.0,10.0,45,42
+Hưng Yên,Ngân hàng,3.0,1.0,0.0,4,4
+Hưng Yên,Nhập khẩu/Xuất khẩu,3.0,0.0,3.0,3,5
+Hưng Yên,Nhựa & Cao su,2.0,0.0,0.0,2,2
+Hưng Yên,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,1.0,0.0,1,1
+Hưng Yên,Nội thất/Gỗ,0.0,0.0,2.0,2,2
+Hưng Yên,Sản xuất,76.0,43.0,50.0,91,97
+Hưng Yên,Thú y,0.0,0.0,2.0,2,2
+Hưng Yên,Tài Chính,2.0,0.0,0.0,3,3
+Hưng Yên,Tự động hoá,2.0,0.0,0.0,3,3
+Hưng Yên,Vận tải,1.0,0.0,2.0,2,2
+Hưng Yên,Vật liệu xây dựng,1.0,0.0,0.0,1,1
+Hưng Yên,Ô tô,0.0,0.0,2.0,2,2
+Hưng Yên,Điện/Điện tử,21.0,2.0,6.0,25,25
+Hải Dương,Bán lẻ/Bán sỉ,1.0,0.0,0.0,1,1
+Hải Dương,Dệt may/May mặc/Giày dép,12.0,2.0,0.0,10,11
+Hải Dương,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,3.0,0.0,5,5
+Hải Dương,Dịch vụ môi trường/Chất thải,0.0,1.0,1.0,2,2
+Hải Dương,Giáo dục/Đào Tạo,1.0,0.0,0.0,2,2
+Hải Dương,Hoá chất/Hoá sinh,0.0,1.0,0.0,1,1
+Hải Dương,Hàng tiêu dùng,2.0,0.0,0.0,2,2
+Hải Dương,Hậu cần/Giao nhận,2.0,0.0,2.0,3,3
+Hải Dương,Kiến trúc/Thiết kế nội thất,2.0,0.0,0.0,2,2
+Hải Dương,Kế toán/Kiểm toán,1.0,0.0,0.0,1,1
+Hải Dương,Kỹ thuật xây dựng/Cơ sở hạ tầng,10.0,0.0,6.0,16,15
+Hải Dương,Ngân hàng,2.0,0.0,2.0,2,2
+Hải Dương,Nhựa & Cao su,1.0,0.0,0.0,1,1
+Hải Dương,Phần Mềm CNTT/Dịch vụ Phần mềm,2.0,0.0,1.0,3,3
+Hải Dương,Sản xuất,33.0,31.0,41.0,49,58
+Hải Dương,Vận tải,1.0,0.0,0.0,1,1
+Hải Dương,Ô tô,1.0,3.0,12.0,14,16
+Hải Dương,Điện/Điện tử,16.0,1.0,8.0,19,18
+Hải Phòng,Bán lẻ/Bán sỉ,17.0,2.0,0.0,20,19
+Hải Phòng,Bất Động Sản/Cho thuê,2.0,6.0,3.0,5,6
+Hải Phòng,Chuỗi cung ứng,0.0,0.0,5.0,8,6
+Hải Phòng,Chứng khoán,1.0,1.0,0.0,1,1
+Hải Phòng,Cung cấp nhân lực,3.0,0.0,0.0,4,4
+Hải Phòng,Cơ khí/Máy móc/Thiết bị công nghiệp,6.0,2.0,1.0,7,7
+Hải Phòng,Dược phẩm,1.0,0.0,0.0,2,2
+Hải Phòng,Dệt may/May mặc/Giày dép,8.0,0.0,1.0,6,7
+Hải Phòng,Dịch vụ Y tế/Chăm sóc sức khỏe,2.0,1.0,1.0,3,3
+Hải Phòng,Dịch vụ kho bãi,7.0,0.0,0.0,11,10
+Hải Phòng,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,2.0,1.0,2,2
+Hải Phòng,Dịch vụ môi trường/Chất thải,2.0,0.0,0.0,3,3
+Hải Phòng,Giáo dục/Đào Tạo,7.0,0.0,3.0,11,9
+Hải Phòng,Hoá chất/Hoá sinh,2.0,1.0,0.0,2,2
+Hải Phòng,Hàng tiêu dùng,3.0,2.0,0.0,4,4
+Hải Phòng,Hậu cần/Giao nhận,22.0,7.0,12.0,35,32
+Hải Phòng,Hệ thống CNTT & Thiết bị,3.0,0.0,1.0,5,5
+Hải Phòng,Kế toán/Kiểm toán,7.0,0.0,2.0,6,8
+Hải Phòng,Kỹ thuật xây dựng/Cơ sở hạ tầng,30.0,2.0,6.0,48,43
+Hải Phòng,Luật/Dịch vụ pháp lý,2.0,0.0,0.0,2,2
+Hải Phòng,Ngân hàng,1.0,2.0,5.0,6,7
+Hải Phòng,Nhập khẩu/Xuất khẩu,5.0,3.0,0.0,4,5
+Hải Phòng,Nhựa & Cao su,1.0,1.0,0.0,1,1
+Hải Phòng,Phần Mềm CNTT/Dịch vụ Phần mềm,2.0,1.0,2.0,3,3
+Hải Phòng,Sản xuất,48.0,19.0,26.0,58,57
+Hải Phòng,Thiết bị y tế,0.0,1.0,0.0,2,2
+Hải Phòng,Thương mại điện tử,0.0,0.0,1.0,2,2
+Hải Phòng,Tài Chính,1.0,0.0,0.0,2,2
+Hải Phòng,Tự động hoá,0.0,0.0,1.0,2,2
+Hải Phòng,Vận tải,10.0,1.0,0.0,12,12
+Hải Phòng,Vật liệu xây dựng,20.0,3.0,0.0,24,24
+Hải Phòng,Ô tô,1.0,2.0,17.0,20,21
+Hải Phòng,Điện/Điện tử,11.0,5.0,18.0,22,23
+Hậu Giang,Chuỗi cung ứng,2.0,0.0,0.0,3,3
+Hậu Giang,Hàng tiêu dùng,1.0,1.0,2.0,2,2
+Hậu Giang,Kỹ thuật xây dựng/Cơ sở hạ tầng,5.0,0.0,0.0,8,7
+Hậu Giang,Ngân hàng,1.0,0.0,0.0,1,1
+Hồ Chí Minh,Bao bì/In ấn/Dán nhãn,26.0,3.0,17.0,21,26
+Hồ Chí Minh,Bán lẻ/Bán sỉ,215.0,62.0,86.0,258,280
+Hồ Chí Minh,Bảo hiểm,44.0,20.0,15.0,53,52
+Hồ Chí Minh,Bất Động Sản/Cho thuê,153.0,25.0,56.0,138,163
+Hồ Chí Minh,Chuỗi cung ứng,11.0,4.0,8.0,18,17
+Hồ Chí Minh,Chính phủ & NGO,0.0,0.0,2.0,2,2
+Hồ Chí Minh,Chứng khoán,50.0,9.0,14.0,60,56
+Hồ Chí Minh,Cung cấp nhân lực,13.0,2.0,6.0,16,15
+Hồ Chí Minh,Cơ khí/Máy móc/Thiết bị công nghiệp,50.0,30.0,40.0,60,66
+Hồ Chí Minh,Dược phẩm,43.0,11.0,10.0,69,46
+Hồ Chí Minh,Dệt may/May mặc/Giày dép,75.0,20.0,32.0,60,87
+Hồ Chí Minh,Dịch vụ Y tế/Chăm sóc sức khỏe,85.0,29.0,35.0,136,127
+Hồ Chí Minh,Dịch vụ kho bãi,5.0,14.0,2.0,22,20
+Hồ Chí Minh,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,92.0,26.0,6.0,110,52
+Hồ Chí Minh,Dịch vụ môi trường/Chất thải,9.0,2.0,5.0,14,13
+Hồ Chí Minh,Giáo dục/Đào Tạo,190.0,40.0,58.0,304,258
+Hồ Chí Minh,Hoá chất/Hoá sinh,43.0,14.0,11.0,52,52
+Hồ Chí Minh,Hàng tiêu dùng,154.0,30.0,69.0,185,183
+Hồ Chí Minh,Hậu cần/Giao nhận,93.0,26.0,80.0,149,149
+Hồ Chí Minh,Hệ thống CNTT & Thiết bị,20.0,23.0,15.0,37,37
+Hồ Chí Minh,Khai khoáng/Dầu khí,18.0,7.0,5.0,14,25
+Hồ Chí Minh,Kiến trúc/Thiết kế nội thất,116.0,20.0,17.0,139,123
+Hồ Chí Minh,Kế toán/Kiểm toán,61.0,26.0,25.0,55,59
+Hồ Chí Minh,Kỹ thuật xây dựng/Cơ sở hạ tầng,237.0,36.0,30.0,379,276
+Hồ Chí Minh,Luật/Dịch vụ pháp lý,47.0,15.0,15.0,56,53
+Hồ Chí Minh,Làm đẹp (Mỹ phẩm) & Chăm sóc cá nhân,34.0,10.0,7.0,41,40
+Hồ Chí Minh,Nghiên cứu,4.0,6.0,1.0,7,6
+Hồ Chí Minh,Nghệ thuật/Giải trí,9.0,2.0,1.0,11,11
+Hồ Chí Minh,Ngân hàng,112.0,48.0,68.0,134,136
+Hồ Chí Minh,Nhập khẩu/Xuất khẩu,51.0,33.0,18.0,46,48
+Hồ Chí Minh,Nhựa & Cao su,5.0,1.0,10.0,8,12
+Hồ Chí Minh,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,83.0,4.0,11.0,100,89
+Hồ Chí Minh,Nội thất/Gỗ,27.0,11.0,15.0,32,32
+Hồ Chí Minh,Phần Mềm CNTT/Dịch vụ Phần mềm,146.0,51.0,114.0,234,206
+Hồ Chí Minh,Sản xuất,140.0,46.0,69.0,168,165
+Hồ Chí Minh,Sản xuất và Phân phối Điện/Khí đốt/Nước,5.0,1.0,1.0,6,6
+Hồ Chí Minh,Thiết bị y tế,6.0,2.0,10.0,16,15
+Hồ Chí Minh,Thú y,4.0,0.0,0.0,5,5
+Hồ Chí Minh,Thương mại điện tử,68.0,16.0,16.0,109,97
+Hồ Chí Minh,Thời trang/Trang sức,23.0,8.0,7.0,28,27
+Hồ Chí Minh,Truyền thông/Báo chí/Quảng cáo,74.0,25.0,28.0,67,79
+Hồ Chí Minh,Tài Chính,89.0,39.0,44.0,142,128
+Hồ Chí Minh,Tự động hoá,4.0,3.0,6.0,10,9
+Hồ Chí Minh,Viễn thông,6.0,6.0,4.0,7,7
+Hồ Chí Minh,Vận tải,46.0,12.0,25.0,55,57
+Hồ Chí Minh,Vật liệu xây dựng,13.0,9.0,10.0,16,17
+Hồ Chí Minh,Ô tô,49.0,5.0,22.0,59,58
+Hồ Chí Minh,Điện/Điện tử,63.0,26.0,48.0,76,80
+Khánh Hòa,Bán lẻ/Bán sỉ,4.0,1.0,0.0,5,5
+Khánh Hòa,Bảo hiểm,0.0,1.0,0.0,1,1
+Khánh Hòa,Bất Động Sản/Cho thuê,2.0,0.0,1.0,2,2
+Khánh Hòa,Dệt may/May mặc/Giày dép,4.0,0.0,0.0,3,3
+Khánh Hòa,Dịch vụ Y tế/Chăm sóc sức khỏe,1.0,1.0,0.0,2,2
+Khánh Hòa,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,4.0,3.0,0.0,5,5
+Khánh Hòa,Hoá chất/Hoá sinh,0.0,1.0,0.0,1,1
+Khánh Hòa,Hàng tiêu dùng,2.0,0.0,0.0,2,2
+Khánh Hòa,Hệ thống CNTT & Thiết bị,0.0,1.0,0.0,2,2
+Khánh Hòa,Khai khoáng/Dầu khí,0.0,1.0,0.0,1,1
+Khánh Hòa,Ngân hàng,3.0,1.0,0.0,4,4
+Khánh Hòa,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,2.0,0.0,0.0,2,2
+Khánh Hòa,Sản xuất,1.0,0.0,0.0,1,1
+Khánh Hòa,Tài Chính,1.0,0.0,0.0,2,2
+Khánh Hòa,Vận tải,0.0,0.0,1.0,1,1
+Khánh Hòa,Điện/Điện tử,3.0,0.0,0.0,4,4
+Kiên Giang,Bán lẻ/Bán sỉ,0.0,1.0,0.0,1,1
+Kiên Giang,Bảo hiểm,0.0,1.0,0.0,1,1
+Kiên Giang,Bất Động Sản/Cho thuê,5.0,2.0,1.0,4,4
+Kiên Giang,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,2.0,1.0,1.0,2,2
+Kiên Giang,Dịch vụ môi trường/Chất thải,1.0,0.0,0.0,2,2
+Kiên Giang,Giáo dục/Đào Tạo,1.0,0.0,0.0,2,2
+Kiên Giang,Hàng tiêu dùng,1.0,0.0,1.0,1,1
+Kiên Giang,Kỹ thuật xây dựng/Cơ sở hạ tầng,2.0,0.0,0.0,3,3
+Kiên Giang,Vận tải,0.0,0.0,1.0,1,1
+Kon Tum,Vật liệu xây dựng,1.0,0.0,0.0,1,1
+Lai Châu,Dược phẩm,1.0,0.0,0.0,2,2
+Lai Châu,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1
+Long An,Bao bì/In ấn/Dán nhãn,10.0,1.0,0.0,8,10
+Long An,Bán lẻ/Bán sỉ,4.0,0.0,1.0,5,5
+Long An,Bất Động Sản/Cho thuê,1.0,0.0,0.0,1,1
+Long An,Cơ khí/Máy móc/Thiết bị công nghiệp,8.0,1.0,2.0,10,10
+Long An,Dệt may/May mặc/Giày dép,5.0,5.0,1.0,4,5
+Long An,Dịch vụ Y tế/Chăm sóc sức khỏe,1.0,0.0,0.0,2,2
+Long An,Dịch vụ kho bãi,0.0,1.0,0.0,2,2
+Long An,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,1.0,0.0,1.0,1,1
+Long An,Giáo dục/Đào Tạo,5.0,0.0,0.0,8,7
+Long An,Hoá chất/Hoá sinh,0.0,0.0,1.0,1,1
+Long An,Hàng tiêu dùng,6.0,3.0,1.0,7,7
+Long An,Hậu cần/Giao nhận,0.0,0.0,1.0,2,2
+Long An,Kiến trúc/Thiết kế nội thất,0.0,0.0,1.0,1,1
+Long An,Kỹ thuật xây dựng/Cơ sở hạ tầng,2.0,1.0,1.0,3,3
+Long An,Luật/Dịch vụ pháp lý,3.0,0.0,0.0,4,4
+Long An,Làm đẹp (Mỹ phẩm) & Chăm sóc cá nhân,0.0,0.0,2.0,2,2
+Long An,Ngân hàng,0.0,1.0,2.0,2,2
+Long An,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,8.0,1.0,2.0,10,10
+Long An,Nội thất/Gỗ,0.0,1.0,0.0,1,1
+Long An,Sản xuất,19.0,3.0,10.0,23,23
+Long An,Tài Chính,3.0,0.0,2.0,5,5
+Long An,Tự động hoá,0.0,1.0,0.0,2,2
+Long An,Vật liệu xây dựng,0.0,0.0,1.0,1,1
+Long An,Điện/Điện tử,3.0,0.0,1.0,4,4
+Lào Cai,Dược phẩm,1.0,0.0,0.0,2,2
+Lào Cai,Kỹ thuật xây dựng/Cơ sở hạ tầng,3.0,1.0,0.0,5,5
+Lào Cai,Ngân hàng,0.0,2.0,0.0,2,2
+Lâm Đồng,Bảo hiểm,0.0,1.0,0.0,1,1
+Lâm Đồng,Dược phẩm,2.0,0.0,0.0,3,3
+Lâm Đồng,Dệt may/May mặc/Giày dép,1.0,0.0,0.0,1,1
+Lâm Đồng,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,1.0,0.0,0.0,1,1
+Lâm Đồng,Giáo dục/Đào Tạo,0.0,0.0,1.0,2,2
+Lâm Đồng,Hàng tiêu dùng,3.0,0.0,1.0,4,4
+Lâm Đồng,Hậu cần/Giao nhận,0.0,0.0,1.0,2,2
+Lâm Đồng,Kỹ thuật xây dựng/Cơ sở hạ tầng,1.0,0.0,0.0,2,2
+Lâm Đồng,Ngân hàng,0.0,1.0,3.0,4,4
+Lâm Đồng,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,1.0,3.0,4,4
+Lâm Đồng,Sản xuất,0.0,0.0,2.0,2,2
+Lâm Đồng,Vật liệu xây dựng,0.0,2.0,0.0,2,2
+Lâm Đồng,Ô tô,1.0,0.0,0.0,1,1
+Lạng Sơn,Bất Động Sản/Cho thuê,1.0,0.0,0.0,1,1
+Lạng Sơn,Kiến trúc/Thiết kế nội thất,1.0,0.0,0.0,1,1
+Lạng Sơn,Ngân hàng,1.0,0.0,0.0,1,1
+Lạng Sơn,Nhập khẩu/Xuất khẩu,2.0,0.0,0.0,2,2
+Lạng Sơn,Vận tải,2.0,0.0,0.0,2,2
+Nam Định,Bao bì/In ấn/Dán nhãn,1.0,0.0,0.0,1,1
+Nam Định,Dệt may/May mặc/Giày dép,2.0,2.0,4.0,3,4
+Nam Định,Kỹ thuật xây dựng/Cơ sở hạ tầng,1.0,0.0,0.0,2,2
+Nam Định,Luật/Dịch vụ pháp lý,3.0,0.0,0.0,4,4
+Nam Định,Ngân hàng,2.0,0.0,0.0,2,2
+Nam Định,Phần Mềm CNTT/Dịch vụ Phần mềm,1.0,0.0,0.0,2,2
+Nam Định,Sản xuất,8.0,0.0,0.0,10,10
+Nam Định,Điện/Điện tử,0.0,0.0,1.0,1,1
+Nghệ An,Bán lẻ/Bán sỉ,0.0,2.0,0.0,2,2
+Nghệ An,Bất Động Sản/Cho thuê,2.0,0.0,0.0,2,2
+Nghệ An,Cơ khí/Máy móc/Thiết bị công nghiệp,1.0,0.0,0.0,1,1
+Nghệ An,Dịch vụ Y tế/Chăm sóc sức khỏe,1.0,0.0,0.0,2,2
+Nghệ An,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,0.0,2.0,2,2
+Nghệ An,Dịch vụ môi trường/Chất thải,1.0,0.0,0.0,2,2
+Nghệ An,Giáo dục/Đào Tạo,1.0,0.0,0.0,2,2
+Nghệ An,Hàng tiêu dùng,1.0,0.0,0.0,1,1
+Nghệ An,Hậu cần/Giao nhận,1.0,0.0,0.0,2,2
+Nghệ An,Khai khoáng/Dầu khí,3.0,0.0,0.0,2,4
+Nghệ An,Kiến trúc/Thiết kế nội thất,2.0,1.0,0.0,2,2
+Nghệ An,Kế toán/Kiểm toán,2.0,0.0,0.0,2,2
+Nghệ An,Kỹ thuật xây dựng/Cơ sở hạ tầng,1.0,1.0,4.0,6,5
+Nghệ An,Ngân hàng,2.0,4.0,2.0,5,5
+Nghệ An,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,2.0,0.0,0.0,2,2
+Nghệ An,Sản xuất,1.0,0.0,2.0,2,2
+Nghệ An,Sản xuất và Phân phối Điện/Khí đốt/Nước,1.0,0.0,0.0,1,1
+Nghệ An,Thương mại điện tử,0.0,0.0,1.0,2,2
+Nghệ An,Thời trang/Trang sức,1.0,0.0,0.0,1,1
+Nghệ An,Tự động hoá,0.0,0.0,1.0,2,2
+Nghệ An,Vận tải,0.0,1.0,1.0,1,1
+Nghệ An,Ô tô,0.0,0.0,4.0,5,5
+Ninh Bình,Bán lẻ/Bán sỉ,0.0,1.0,0.0,1,1
+Ninh Bình,Chính phủ & NGO,0.0,0.0,1.0,1,1
+Ninh Bình,Dệt may/May mặc/Giày dép,1.0,0.0,0.0,1,1
+Ninh Bình,Dịch vụ kho bãi,0.0,0.0,1.0,2,2
+Ninh Bình,Ngân hàng,1.0,0.0,0.0,1,1
+Ninh Bình,Vận tải,0.0,2.0,1.0,2,2
+Ninh Bình,Ô tô,0.0,1.0,0.0,1,1
+Ninh Thuận,Bất Động Sản/Cho thuê,1.0,0.0,0.0,1,1
+Ninh Thuận,Dệt may/May mặc/Giày dép,4.0,0.0,0.0,3,3
+Ninh Thuận,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,0.0,1.0,2,2
+Ninh Thuận,Sản xuất và Phân phối Điện/Khí đốt/Nước,0.0,0.0,2.0,2,2
+Phú Thọ,Bất Động Sản/Cho thuê,2.0,0.0,0.0,2,2
+Phú Thọ,Cơ khí/Máy móc/Thiết bị công nghiệp,1.0,0.0,0.0,1,1
+Phú Thọ,Dệt may/May mặc/Giày dép,2.0,0.0,0.0,2,2
+Phú Thọ,Kỹ thuật xây dựng/Cơ sở hạ tầng,1.0,0.0,0.0,2,2
+Phú Thọ,Ngân hàng,1.0,4.0,0.0,5,5
+Phú Thọ,Nhập khẩu/Xuất khẩu,2.0,0.0,0.0,2,2
+Phú Thọ,Nhựa & Cao su,0.0,0.0,1.0,1,1
+Phú Thọ,Sản xuất,2.0,0.0,0.0,2,2
+Phú Yên,Bán lẻ/Bán sỉ,4.0,0.0,0.0,5,5
+Phú Yên,Dược phẩm,1.0,0.0,0.0,2,2
+Phú Yên,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,2.0,0.0,0.0,2,2
+Phú Yên,Kỹ thuật xây dựng/Cơ sở hạ tầng,2.0,0.0,0.0,3,3
+Phú Yên,Sản xuất,6.0,0.0,0.0,7,7
+Phú Yên,Điện/Điện tử,4.0,0.0,1.0,5,5
+Quảng Bình,Dịch vụ Y tế/Chăm sóc sức khỏe,1.0,0.0,0.0,2,2
+Quảng Bình,Kỹ thuật xây dựng/Cơ sở hạ tầng,5.0,0.0,0.0,8,8
+Quảng Bình,Ngân hàng,1.0,0.0,0.0,1,1
+Quảng Bình,Sản xuất,1.0,2.0,0.0,2,2
+Quảng Bình,Sản xuất và Phân phối Điện/Khí đốt/Nước,1.0,0.0,0.0,1,1
+Quảng Nam,Bán lẻ/Bán sỉ,1.0,0.0,0.0,1,1
+Quảng Nam,Bất Động Sản/Cho thuê,0.0,0.0,2.0,2,2
+Quảng Nam,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Quảng Nam,Dệt may/May mặc/Giày dép,8.0,3.0,0.0,6,7
+Quảng Nam,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,2.0,0.0,2,2
+Quảng Nam,Hàng tiêu dùng,2.0,0.0,0.0,2,2
+Quảng Nam,Kỹ thuật xây dựng/Cơ sở hạ tầng,1.0,0.0,1.0,2,2
+Quảng Nam,Ngân hàng,1.0,0.0,0.0,1,1
+Quảng Nam,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,1.0,0.0,2,2
+Quảng Nam,Sản xuất,10.0,3.0,5.0,12,12
+Quảng Nam,Ô tô,0.0,1.0,2.0,2,2
+Quảng Ngãi,Bảo hiểm,1.0,0.0,0.0,1,1
+Quảng Ngãi,Dệt may/May mặc/Giày dép,0.0,1.0,0.0,1,1
+Quảng Ngãi,Giáo dục/Đào Tạo,1.0,0.0,0.0,2,2
+Quảng Ngãi,Hàng tiêu dùng,5.0,0.0,2.0,6,6
+Quảng Ngãi,Kỹ thuật xây dựng/Cơ sở hạ tầng,1.0,0.0,0.0,2,2
+Quảng Ngãi,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,0.0,2.0,3,2
+Quảng Ngãi,Sản xuất,7.0,5.0,0.0,8,8
+Quảng Ngãi,Thiết bị y tế,1.0,0.0,0.0,2,2
+Quảng Ninh,Bán lẻ/Bán sỉ,1.0,1.0,1.0,1,1
+Quảng Ninh,Bảo hiểm,0.0,0.0,3.0,4,4
+Quảng Ninh,Bất Động Sản/Cho thuê,5.0,0.0,1.0,4,4
+Quảng Ninh,Cung cấp nhân lực,0.0,0.0,1.0,1,1
+Quảng Ninh,Cơ khí/Máy móc/Thiết bị công nghiệp,1.0,0.0,1.0,1,1
+Quảng Ninh,Dược phẩm,2.0,0.0,1.0,3,3
+Quảng Ninh,Dịch vụ Y tế/Chăm sóc sức khỏe,2.0,0.0,1.0,3,3
+Quảng Ninh,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,2.0,0.0,0.0,2,2
+Quảng Ninh,Dịch vụ môi trường/Chất thải,2.0,0.0,0.0,3,3
+Quảng Ninh,Giáo dục/Đào Tạo,0.0,0.0,1.0,2,2
+Quảng Ninh,Hậu cần/Giao nhận,0.0,1.0,0.0,2,2
+Quảng Ninh,Hệ thống CNTT & Thiết bị,2.0,0.0,0.0,3,2
+Quảng Ninh,Kỹ thuật xây dựng/Cơ sở hạ tầng,4.0,2.0,4.0,6,6
+Quảng Ninh,Ngân hàng,4.0,4.0,0.0,5,5
+Quảng Ninh,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,1.0,1,1
+Quảng Ninh,Sản xuất,1.0,5.0,8.0,10,10
+Quảng Ninh,Tài Chính,0.0,1.0,0.0,2,2
+Quảng Ninh,Tự động hoá,0.0,0.0,1.0,2,2
+Quảng Ninh,Vận tải,0.0,4.0,0.0,5,5
+Quảng Ninh,Ô tô,2.0,1.0,0.0,2,2
+Quảng Ninh,Điện/Điện tử,5.0,1.0,3.0,6,6
+Quảng Trị,Dệt may/May mặc/Giày dép,1.0,0.0,0.0,1,1
+Quảng Trị,Kỹ thuật xây dựng/Cơ sở hạ tầng,1.0,0.0,0.0,2,2
+Quảng Trị,Sản xuất và Phân phối Điện/Khí đốt/Nước,0.0,2.0,0.0,2,2
+Sóc Trăng,Bất Động Sản/Cho thuê,2.0,0.0,0.0,2,2
+Sóc Trăng,Dược phẩm,2.0,0.0,0.0,3,3
+Sóc Trăng,Dệt may/May mặc/Giày dép,2.0,0.0,0.0,2,2
+Sóc Trăng,Hàng tiêu dùng,0.0,0.0,1.0,1,1
+Sóc Trăng,Ngân hàng,0.0,0.0,1.0,1,1
+Sóc Trăng,Sản xuất,3.0,0.0,0.0,4,4
+Sóc Trăng,Sản xuất và Phân phối Điện/Khí đốt/Nước,0.0,0.0,4.0,5,5
+Sơn La,Dược phẩm,1.0,0.0,0.0,2,2
+Sơn La,Ngân hàng,1.0,0.0,0.0,1,1
+Thanh Hóa,Bất Động Sản/Cho thuê,0.0,2.0,0.0,2,2
+Thanh Hóa,Chính phủ & NGO,9.0,0.0,0.0,9,11
+Thanh Hóa,Dược phẩm,2.0,0.0,0.0,3,3
+Thanh Hóa,Dệt may/May mặc/Giày dép,3.0,0.0,0.0,2,2
+Thanh Hóa,Dịch vụ Y tế/Chăm sóc sức khỏe,2.0,0.0,0.0,3,3
+Thanh Hóa,Giáo dục/Đào Tạo,0.0,0.0,1.0,2,2
+Thanh Hóa,Hoá chất/Hoá sinh,1.0,0.0,0.0,1,1
+Thanh Hóa,Hàng tiêu dùng,1.0,1.0,2.0,2,2
+Thanh Hóa,Khai khoáng/Dầu khí,3.0,0.0,3.0,2,5
+Thanh Hóa,Kỹ thuật xây dựng/Cơ sở hạ tầng,3.0,0.0,1.0,5,5
+Thanh Hóa,Ngân hàng,3.0,0.0,0.0,4,4
+Thanh Hóa,Sản xuất,2.0,6.0,4.0,7,7
+Thanh Hóa,Thiết bị y tế,2.0,0.0,0.0,3,3
+Thanh Hóa,Thương mại điện tử,0.0,0.0,1.0,2,2
+Thanh Hóa,Điện/Điện tử,0.0,0.0,5.0,6,6
+Thái Bình,Bất Động Sản/Cho thuê,1.0,1.0,2.0,2,2
+Thái Bình,Dệt may/May mặc/Giày dép,3.0,0.0,0.0,2,2
+Thái Bình,Giáo dục/Đào Tạo,1.0,0.0,0.0,2,2
+Thái Bình,Hàng tiêu dùng,0.0,0.0,1.0,1,1
+Thái Bình,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,4.0,6,6
+Thái Bình,Luật/Dịch vụ pháp lý,3.0,0.0,0.0,4,4
+Thái Bình,Phần Mềm CNTT/Dịch vụ Phần mềm,2.0,0.0,0.0,3,3
+Thái Bình,Sản xuất,9.0,0.0,5.0,11,12
+Thái Bình,Tự động hoá,0.0,1.0,0.0,2,2
+Thái Bình,Ô tô,4.0,0.0,0.0,5,5
+Thái Bình,Điện/Điện tử,0.0,0.0,2.0,2,2
+Thái Nguyên,Bất Động Sản/Cho thuê,0.0,0.0,1.0,1,1
+Thái Nguyên,Dệt may/May mặc/Giày dép,1.0,0.0,0.0,1,1
+Thái Nguyên,Hàng tiêu dùng,0.0,1.0,0.0,1,1
+Thái Nguyên,Hậu cần/Giao nhận,0.0,0.0,1.0,2,2
+Thái Nguyên,Kế toán/Kiểm toán,0.0,1.0,0.0,1,1
+Thái Nguyên,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,4.0,0.0,6,6
+Thái Nguyên,Ngân hàng,1.0,6.0,0.0,7,7
+Thái Nguyên,Nội thất/Gỗ,0.0,0.0,1.0,1,1
+Thái Nguyên,Sản xuất,8.0,4.0,3.0,10,10
+Thái Nguyên,Vận tải,0.0,2.0,1.0,2,2
+Thái Nguyên,Vật liệu xây dựng,0.0,1.0,1.0,1,1
+Tiền Giang,Bán lẻ/Bán sỉ,1.0,0.0,1.0,1,1
+Tiền Giang,Dược phẩm,1.0,0.0,0.0,2,2
+Tiền Giang,Dệt may/May mặc/Giày dép,6.0,0.0,2.0,5,6
+Tiền Giang,Ngân hàng,8.0,1.0,0.0,10,10
+Tiền Giang,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,6.0,1.0,0.0,7,7
+Tiền Giang,Sản xuất,0.0,0.0,1.0,1,1
+Tiền Giang,Tài Chính,2.0,0.0,1.0,3,3
+Trà Vinh,Dệt may/May mặc/Giày dép,3.0,0.0,0.0,2,2
+Trà Vinh,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,1.0,2,2
+Tuyên Quang,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,0.0,1.0,1,1
+Tây Ninh,Dược phẩm,1.0,0.0,0.0,2,2
+Tây Ninh,Dệt may/May mặc/Giày dép,2.0,0.0,0.0,2,2
+Tây Ninh,Hàng tiêu dùng,1.0,0.0,0.0,1,1
+Tây Ninh,Kỹ thuật xây dựng/Cơ sở hạ tầng,1.0,0.0,0.0,2,2
+Tây Ninh,Ngân hàng,1.0,0.0,1.0,1,1
+Tây Ninh,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,2.0,2,2
+Tây Ninh,Sản xuất,0.0,0.0,1.0,1,1
+Vĩnh Long,Bảo hiểm,0.0,1.0,0.0,1,1
+Vĩnh Long,Dệt may/May mặc/Giày dép,0.0,1.0,2.0,2,2
+Vĩnh Long,Hoá chất/Hoá sinh,0.0,0.0,2.0,2,2
+Vĩnh Long,Hàng tiêu dùng,1.0,0.0,0.0,1,1
+Vĩnh Long,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,3.0,1.0,0.0,4,4
+Vĩnh Phúc,Bất Động Sản/Cho thuê,2.0,0.0,0.0,2,2
+Vĩnh Phúc,Cung cấp nhân lực,1.0,0.0,0.0,1,1
+Vĩnh Phúc,Cơ khí/Máy móc/Thiết bị công nghiệp,1.0,0.0,3.0,4,4
+Vĩnh Phúc,Dược phẩm,6.0,0.0,0.0,10,9
+Vĩnh Phúc,Dệt may/May mặc/Giày dép,0.0,2.0,0.0,2,2
+Vĩnh Phúc,Dịch vụ Y tế/Chăm sóc sức khỏe,3.0,2.0,1.0,5,5
+Vĩnh Phúc,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,0.0,1.0,1,1
+Vĩnh Phúc,Hoá chất/Hoá sinh,0.0,2.0,1.0,2,2
+Vĩnh Phúc,Hàng tiêu dùng,0.0,1.0,0.0,1,1
+Vĩnh Phúc,Kỹ thuật xây dựng/Cơ sở hạ tầng,7.0,4.0,1.0,11,10
+Vĩnh Phúc,Ngân hàng,0.0,3.0,0.0,4,4
+Vĩnh Phúc,Phần Mềm CNTT/Dịch vụ Phần mềm,2.0,0.0,0.0,3,3
+Vĩnh Phúc,Sản xuất,6.0,8.0,9.0,11,12
+Vĩnh Phúc,Vận tải,0.0,1.0,0.0,1,1
+Vĩnh Phúc,Vật liệu xây dựng,0.0,2.0,0.0,2,2
+Vĩnh Phúc,Ô tô,4.0,2.0,1.0,5,5
+Vĩnh Phúc,Điện/Điện tử,0.0,1.0,3.0,4,4
+Yên Bái,Bất Động Sản/Cho thuê,0.0,1.0,0.0,1,1
+Yên Bái,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,1.0,0.0,0.0,1,1
+Yên Bái,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,2.0,1.0,3,3
+Yên Bái,Ngân hàng,1.0,2.0,0.0,2,2
+Điện Biên,Bán lẻ/Bán sỉ,1.0,0.0,1.0,1,1
+Điện Biên,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,1.0,2,2
+Điện Biên,Sản xuất,1.0,0.0,0.0,1,1
+Đà Nẵng,Bán lẻ/Bán sỉ,6.0,4.0,3.0,7,7
+Đà Nẵng,Bảo hiểm,5.0,2.0,4.0,6,6
+Đà Nẵng,Bất Động Sản/Cho thuê,14.0,3.0,5.0,13,14
+Đà Nẵng,Chuỗi cung ứng,0.0,1.0,1.0,2,2
+Đà Nẵng,Chứng khoán,0.0,0.0,3.0,4,4
+Đà Nẵng,Cung cấp nhân lực,1.0,0.0,0.0,1,1
+Đà Nẵng,Cơ khí/Máy móc/Thiết bị công nghiệp,3.0,0.0,5.0,6,6
+Đà Nẵng,Dược phẩm,4.0,1.0,3.0,6,6
+Đà Nẵng,Dệt may/May mặc/Giày dép,3.0,0.0,0.0,2,2
+Đà Nẵng,Dịch vụ Y tế/Chăm sóc sức khỏe,4.0,3.0,4.0,6,6
+Đà Nẵng,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,11.0,1.0,1.0,13,13
+Đà Nẵng,Dịch vụ môi trường/Chất thải,0.0,2.0,0.0,3,3
+Đà Nẵng,Giáo dục/Đào Tạo,11.0,1.0,1.0,18,15
+Đà Nẵng,Hàng tiêu dùng,8.0,2.0,2.0,10,10
+Đà Nẵng,Hậu cần/Giao nhận,0.0,1.0,4.0,6,6
+Đà Nẵng,Hệ thống CNTT & Thiết bị,1.0,1.0,5.0,8,8
+Đà Nẵng,Khai khoáng/Dầu khí,1.0,0.0,0.0,1,1
+Đà Nẵng,Kiến trúc/Thiết kế nội thất,1.0,0.0,0.0,1,1
+Đà Nẵng,Kế toán/Kiểm toán,1.0,1.0,0.0,1,1
+Đà Nẵng,Kỹ thuật xây dựng/Cơ sở hạ tầng,6.0,0.0,2.0,10,9
+Đà Nẵng,Luật/Dịch vụ pháp lý,1.0,0.0,0.0,1,1
+Đà Nẵng,Làm đẹp (Mỹ phẩm) & Chăm sóc cá nhân,1.0,0.0,0.0,1,1
+Đà Nẵng,Nghệ thuật/Giải trí,0.0,0.0,1.0,1,1
+Đà Nẵng,Ngân hàng,7.0,6.0,10.0,12,13
+Đà Nẵng,Nhập khẩu/Xuất khẩu,1.0,1.0,1.0,1,1
+Đà Nẵng,Nhựa & Cao su,0.0,0.0,1.0,1,1
+Đà Nẵng,Phần Mềm CNTT/Dịch vụ Phần mềm,9.0,1.0,9.0,14,14
+Đà Nẵng,Sản xuất,10.0,7.0,2.0,12,12
+Đà Nẵng,Sản xuất và Phân phối Điện/Khí đốt/Nước,0.0,2.0,0.0,2,2
+Đà Nẵng,Thương mại điện tử,0.0,0.0,1.0,2,2
+Đà Nẵng,Thời trang/Trang sức,3.0,0.0,0.0,4,4
+Đà Nẵng,Truyền thông/Báo chí/Quảng cáo,0.0,3.0,0.0,3,3
+Đà Nẵng,Tài Chính,1.0,0.0,0.0,2,2
+Đà Nẵng,Viễn thông,0.0,0.0,1.0,1,1
+Đà Nẵng,Vận tải,3.0,2.0,1.0,4,4
+Đà Nẵng,Vật liệu xây dựng,2.0,3.0,1.0,4,4
+Đà Nẵng,Ô tô,1.0,0.0,1.0,1,1
+Đà Nẵng,Điện/Điện tử,5.0,0.0,0.0,6,6
+Đắk Lắk,Bảo hiểm,0.0,1.0,0.0,1,1
+Đắk Lắk,Bất Động Sản/Cho thuê,1.0,0.0,1.0,1,1
+Đắk Lắk,Hàng tiêu dùng,1.0,0.0,1.0,1,1
+Đắk Lắk,Ngân hàng,0.0,5.0,0.0,6,6
+Đắk Lắk,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,1.0,0.0,1,1
+Đắk Lắk,Sản xuất,1.0,0.0,0.0,1,1
+Đắk Nông,Hàng tiêu dùng,3.0,0.0,0.0,4,4
+Đồng Nai,Bao bì/In ấn/Dán nhãn,1.0,0.0,1.0,1,1
+Đồng Nai,Bán lẻ/Bán sỉ,5.0,1.0,3.0,6,6
+Đồng Nai,Bất Động Sản/Cho thuê,0.0,0.0,1.0,1,1
+Đồng Nai,Cung cấp nhân lực,1.0,0.0,0.0,1,1
+Đồng Nai,Cơ khí/Máy móc/Thiết bị công nghiệp,11.0,3.0,1.0,13,15
+Đồng Nai,Dược phẩm,0.0,0.0,2.0,3,3
+Đồng Nai,Dệt may/May mặc/Giày dép,25.0,2.0,8.0,20,23
+Đồng Nai,Dịch vụ Y tế/Chăm sóc sức khỏe,1.0,0.0,0.0,2,2
+Đồng Nai,Dịch vụ kho bãi,1.0,0.0,0.0,2,2
+Đồng Nai,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,18.0,1.0,0.0,22,24
+Đồng Nai,Dịch vụ môi trường/Chất thải,0.0,0.0,1.0,2,2
+Đồng Nai,Giáo dục/Đào Tạo,2.0,3.0,0.0,5,5
+Đồng Nai,Hoá chất/Hoá sinh,2.0,1.0,3.0,4,4
+Đồng Nai,Hàng tiêu dùng,16.0,3.0,7.0,19,19
+Đồng Nai,Hậu cần/Giao nhận,5.0,1.0,0.0,8,7
+Đồng Nai,Hệ thống CNTT & Thiết bị,0.0,0.0,1.0,2,2
+Đồng Nai,Khai khoáng/Dầu khí,0.0,2.0,0.0,2,2
+Đồng Nai,Kiến trúc/Thiết kế nội thất,3.0,0.0,1.0,4,4
+Đồng Nai,Kế toán/Kiểm toán,1.0,0.0,0.0,1,1
+Đồng Nai,Kỹ thuật xây dựng/Cơ sở hạ tầng,12.0,1.0,5.0,19,18
+Đồng Nai,Ngân hàng,5.0,0.0,3.0,6,6
+Đồng Nai,Nhập khẩu/Xuất khẩu,2.0,4.0,0.0,4,4
+Đồng Nai,Nhựa & Cao su,4.0,0.0,5.0,4,6
+Đồng Nai,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,4.0,1.0,1.0,5,5
+Đồng Nai,Nội thất/Gỗ,7.0,0.0,0.0,8,8
+Đồng Nai,Sản xuất,49.0,7.0,10.0,59,49
+Đồng Nai,Thú y,2.0,0.0,0.0,2,2
+Đồng Nai,Tài Chính,3.0,0.0,1.0,5,5
+Đồng Nai,Viễn thông,1.0,0.0,0.0,1,1
+Đồng Nai,Vận tải,0.0,1.0,2.0,2,2
+Đồng Nai,Vật liệu xây dựng,2.0,0.0,1.0,2,2
+Đồng Nai,Ô tô,0.0,0.0,1.0,1,1
+Đồng Nai,Điện/Điện tử,5.0,1.0,6.0,7,7
+Đồng Tháp,Bán lẻ/Bán sỉ,1.0,0.0,0.0,1,1
+Đồng Tháp,Bất Động Sản/Cho thuê,1.0,0.0,0.0,1,1
+Đồng Tháp,Dược phẩm,1.0,0.0,0.0,2,2
+Đồng Tháp,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,0.0,1.0,2,2
+Đồng Tháp,Hàng tiêu dùng,0.0,0.0,1.0,1,1
+Đồng Tháp,Ngân hàng,7.0,1.0,0.0,8,8
+Đồng Tháp,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,1.0,0.0,0.0,1,1
+Đồng Tháp,Sản xuất,0.0,0.0,2.0,2,2
+An Giang,Bán lẻ/Bán sỉ,0.0,17.0,3.0,20,19
+An Giang,Khác,0.0,1.0,1.0,1,1
+An Giang,Ngân hàng,0.0,5.0,4.0,6,6
+An Giang,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1
+Bà Rịa-Vũng Tàu,Bán lẻ/Bán sỉ,0.0,24.0,18.0,29,31
+Bà Rịa-Vũng Tàu,Bất Động Sản/Cho thuê,0.0,0.0,1.0,1,1
+Bà Rịa-Vũng Tàu,Chuỗi cung ứng,0.0,7.0,1.0,11,10
+Bà Rịa-Vũng Tàu,Cung cấp nhân lực,0.0,8.0,1.0,10,10
+Bà Rịa-Vũng Tàu,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,62.0,2.0,74,58
+Bà Rịa-Vũng Tàu,Dược phẩm,0.0,4.0,0.0,6,6
+Bà Rịa-Vũng Tàu,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,1.0,0.0,2,2
+Bà Rịa-Vũng Tàu,Dịch vụ kho bãi,0.0,1.0,0.0,2,2
+Bà Rịa-Vũng Tàu,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,2.0,0.0,2,2
+Bà Rịa-Vũng Tàu,Dịch vụ môi trường/Chất thải,0.0,2.0,0.0,3,3
+Bà Rịa-Vũng Tàu,Giáo dục/Đào Tạo,0.0,1.0,12.0,19,18
+Bà Rịa-Vũng Tàu,Hoá chất/Hoá sinh,0.0,4.0,2.0,5,5
+Bà Rịa-Vũng Tàu,Hậu cần/Giao nhận,0.0,0.0,1.0,2,2
+Bà Rịa-Vũng Tàu,Hệ thống CNTT & Thiết bị,0.0,0.0,1.0,2,2
+Bà Rịa-Vũng Tàu,Khai khoáng/Dầu khí,0.0,4.0,1.0,3,4
+Bà Rịa-Vũng Tàu,Khác,0.0,13.0,10.0,13,14
+Bà Rịa-Vũng Tàu,Kiến trúc/Thiết kế nội thất,0.0,4.0,1.0,5,5
+Bà Rịa-Vũng Tàu,Kế toán/Kiểm toán,0.0,13.0,1.0,12,16
+Bà Rịa-Vũng Tàu,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,2.0,0.0,3,3
+Bà Rịa-Vũng Tàu,Luật/Dịch vụ pháp lý,0.0,2.0,1.0,2,2
+Bà Rịa-Vũng Tàu,Ngân hàng,0.0,8.0,1.0,10,10
+Bà Rịa-Vũng Tàu,Sản xuất,0.0,5.0,1.0,6,6
+Bà Rịa-Vũng Tàu,Thương mại điện tử,0.0,0.0,1.0,2,2
+Bà Rịa-Vũng Tàu,Truyền thông/Báo chí/Quảng cáo,0.0,6.0,2.0,5,5
+Bà Rịa-Vũng Tàu,Điện/Điện tử,0.0,9.0,2.0,11,11
+Bình Dương,Bao bì/In ấn/Dán nhãn,0.0,1.0,1.0,1,1
+Bình Dương,Bán lẻ/Bán sỉ,0.0,42.0,29.0,50,51
+Bình Dương,Bảo hiểm,0.0,1.0,0.0,1,1
+Bình Dương,Bất Động Sản/Cho thuê,0.0,1.0,0.0,1,1
+Bình Dương,Chuỗi cung ứng,0.0,8.0,4.0,13,12
+Bình Dương,Chứng khoán,0.0,0.0,1.0,1,1
+Bình Dương,Cung cấp nhân lực,0.0,24.0,15.0,29,30
+Bình Dương,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,50.0,22.0,60,62
+Bình Dương,Dược phẩm,0.0,4.0,0.0,6,6
+Bình Dương,Dệt may/May mặc/Giày dép,0.0,7.0,0.0,6,7
+Bình Dương,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,3.0,1.0,5,4
+Bình Dương,Dịch vụ kho bãi,0.0,0.0,1.0,2,2
+Bình Dương,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,6.0,1.0,7,7
+Bình Dương,Dịch vụ môi trường/Chất thải,0.0,2.0,4.0,6,5
+Bình Dương,Giáo dục/Đào Tạo,0.0,6.0,6.0,10,9
+Bình Dương,Hoá chất/Hoá sinh,0.0,18.0,11.0,22,22
+Bình Dương,Hậu cần/Giao nhận,0.0,3.0,3.0,5,4
+Bình Dương,Hệ thống CNTT & Thiết bị,0.0,0.0,1.0,2,2
+Bình Dương,Khác,0.0,20.0,20.0,20,25
+Bình Dương,Kiến trúc/Thiết kế nội thất,0.0,8.0,0.0,10,10
+Bình Dương,Kế toán/Kiểm toán,0.0,19.0,5.0,17,19
+Bình Dương,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,8.0,0.0,13,12
+Bình Dương,Luật/Dịch vụ pháp lý,0.0,5.0,1.0,6,6
+Bình Dương,Nghiên cứu,0.0,1.0,1.0,1,1
+Bình Dương,Nghệ thuật/Giải trí,0.0,6.0,5.0,7,7
+Bình Dương,Ngân hàng,0.0,14.0,6.0,17,17
+Bình Dương,Nhập khẩu/Xuất khẩu,0.0,2.0,2.0,2,2
+Bình Dương,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,1.0,1,1
+Bình Dương,Nội thất/Gỗ,0.0,6.0,1.0,7,7
+Bình Dương,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,5.0,1.0,8,7
+Bình Dương,Sản xuất,0.0,28.0,8.0,34,33
+Bình Dương,Thú y,0.0,2.0,0.0,2,2
+Bình Dương,Thương mại điện tử,0.0,1.0,0.0,2,2
+Bình Dương,Truyền thông/Báo chí/Quảng cáo,0.0,17.0,11.0,15,17
+Bình Dương,Tài Chính,0.0,1.0,0.0,2,2
+Bình Dương,Viễn thông,0.0,0.0,1.0,1,1
+Bình Dương,Điện/Điện tử,0.0,24.0,8.0,29,30
+Bình Phước,Bán lẻ/Bán sỉ,0.0,12.0,5.0,14,14
+Bình Phước,Bất Động Sản/Cho thuê,0.0,1.0,0.0,1,1
+Bình Phước,Cung cấp nhân lực,0.0,2.0,0.0,2,2
+Bình Phước,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,3.0,4.0,5,4
+Bình Phước,Dịch vụ môi trường/Chất thải,0.0,0.0,1.0,2,2
+Bình Phước,Khác,0.0,0.0,2.0,2,2
+Bình Phước,Kế toán/Kiểm toán,0.0,1.0,0.0,1,1
+Bình Phước,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Bình Phước,Ngân hàng,0.0,2.0,0.0,2,2
+Bình Phước,Thú y,0.0,1.0,0.0,1,1
+Bình Phước,Truyền thông/Báo chí/Quảng cáo,0.0,0.0,1.0,1,1
+Bình Thuận,Bán lẻ/Bán sỉ,0.0,7.0,8.0,10,11
+Bình Thuận,Bảo hiểm,0.0,1.0,0.0,1,1
+Bình Thuận,Bất Động Sản/Cho thuê,0.0,0.0,1.0,1,1
+Bình Thuận,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,2.0,0.0,2,2
+Bình Thuận,Kiến trúc/Thiết kế nội thất,0.0,2.0,0.0,2,2
+Bình Thuận,Kế toán/Kiểm toán,0.0,1.0,0.0,1,1
+Bình Thuận,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,1.0,2,2
+Bình Thuận,Ngân hàng,0.0,2.0,0.0,2,2
+Bình Thuận,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,2.0,2,2
+Bình Thuận,Truyền thông/Báo chí/Quảng cáo,0.0,0.0,2.0,2,2
+Bình Thuận,Điện/Điện tử,0.0,3.0,1.0,4,4
+Bình Định,Bán lẻ/Bán sỉ,0.0,12.0,2.0,14,14
+Bình Định,Bảo hiểm,0.0,2.0,0.0,2,2
+Bình Định,Chuỗi cung ứng,0.0,1.0,0.0,2,2
+Bình Định,Cung cấp nhân lực,0.0,2.0,0.0,2,2
+Bình Định,Dược phẩm,0.0,1.0,1.0,2,2
+Bình Định,Khác,0.0,1.0,0.0,1,1
+Bình Định,Kế toán/Kiểm toán,0.0,0.0,1.0,1,1
+Bình Định,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,1.0,2,2
+Bình Định,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Bình Định,Ngân hàng,0.0,4.0,1.0,5,5
+Bình Định,Nội thất/Gỗ,0.0,0.0,1.0,1,1
+Bình Định,Sản xuất,0.0,1.0,1.0,1,1
+Bình Định,Truyền thông/Báo chí/Quảng cáo,0.0,2.0,0.0,2,2
+Bạc Liêu,Bán lẻ/Bán sỉ,0.0,4.0,2.0,5,5
+Bạc Liêu,Bất Động Sản/Cho thuê,0.0,1.0,0.0,1,1
+Bạc Liêu,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,0.0,1.0,1,1
+Bạc Liêu,Khác,0.0,1.0,1.0,1,1
+Bạc Liêu,Kiến trúc/Thiết kế nội thất,0.0,1.0,0.0,1,1
+Bạc Liêu,Ngân hàng,0.0,1.0,1.0,1,1
+Bạc Liêu,Truyền thông/Báo chí/Quảng cáo,0.0,0.0,1.0,1,1
+Bạc Liêu,Điện/Điện tử,0.0,1.0,0.0,1,1
+Bắc Giang,Bán lẻ/Bán sỉ,0.0,18.0,5.0,22,22
+Bắc Giang,Cung cấp nhân lực,0.0,2.0,0.0,2,2
+Bắc Giang,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,2.0,2.0,2,2
+Bắc Giang,Giáo dục/Đào Tạo,0.0,1.0,2.0,3,3
+Bắc Giang,Hoá chất/Hoá sinh,0.0,0.0,1.0,1,1
+Bắc Giang,Khác,0.0,2.0,1.0,2,2
+Bắc Giang,Kiến trúc/Thiết kế nội thất,0.0,0.0,3.0,4,4
+Bắc Giang,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,3.0,2.0,5,5
+Bắc Giang,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Bắc Giang,Ngân hàng,0.0,0.0,1.0,1,1
+Bắc Giang,Truyền thông/Báo chí/Quảng cáo,0.0,0.0,1.0,1,1
+Bắc Giang,Điện/Điện tử,0.0,0.0,3.0,4,4
+Bắc Kạn,Bán lẻ/Bán sỉ,0.0,3.0,0.0,4,4
+Bắc Kạn,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Bắc Ninh,Bán lẻ/Bán sỉ,0.0,25.0,11.0,30,31
+Bắc Ninh,Bảo hiểm,0.0,4.0,0.0,5,5
+Bắc Ninh,Chuỗi cung ứng,0.0,1.0,1.0,2,2
+Bắc Ninh,Cung cấp nhân lực,0.0,9.0,2.0,11,11
+Bắc Ninh,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,10.0,3.0,12,12
+Bắc Ninh,Dược phẩm,0.0,1.0,0.0,2,2
+Bắc Ninh,Giáo dục/Đào Tạo,0.0,3.0,1.0,5,5
+Bắc Ninh,Hoá chất/Hoá sinh,0.0,2.0,0.0,2,2
+Bắc Ninh,Hậu cần/Giao nhận,0.0,1.0,1.0,2,2
+Bắc Ninh,Hệ thống CNTT & Thiết bị,0.0,1.0,0.0,2,2
+Bắc Ninh,Khác,0.0,7.0,4.0,7,7
+Bắc Ninh,Kiến trúc/Thiết kế nội thất,0.0,1.0,0.0,1,1
+Bắc Ninh,Kế toán/Kiểm toán,0.0,6.0,0.0,5,6
+Bắc Ninh,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,3.0,2.0,5,5
+Bắc Ninh,Luật/Dịch vụ pháp lý,0.0,3.0,0.0,4,4
+Bắc Ninh,Nghệ thuật/Giải trí,0.0,3.0,0.0,4,4
+Bắc Ninh,Ngân hàng,0.0,0.0,1.0,1,1
+Bắc Ninh,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,2.0,0.0,3,3
+Bắc Ninh,Sản xuất,0.0,3.0,2.0,4,4
+Bắc Ninh,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,2.0,2,2
+Bắc Ninh,Điện/Điện tử,0.0,2.0,2.0,2,2
+Bến Tre,Bán lẻ/Bán sỉ,0.0,5.0,2.0,6,6
+Bến Tre,Chuỗi cung ứng,0.0,1.0,0.0,2,2
+Bến Tre,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,0.0,2.0,2,2
+Bến Tre,Dệt may/May mặc/Giày dép,0.0,0.0,2.0,2,2
+Bến Tre,Hoá chất/Hoá sinh,0.0,0.0,2.0,2,2
+Bến Tre,Khác,0.0,1.0,2.0,2,2
+Bến Tre,Kế toán/Kiểm toán,0.0,0.0,1.0,1,1
+Bến Tre,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,1.0,2,2
+Bến Tre,Ngân hàng,0.0,1.0,0.0,1,1
+Bến Tre,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,1.0,1,1
+Bến Tre,Sản xuất,0.0,0.0,1.0,1,1
+Bến Tre,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,2.0,2,2
+Bến Tre,Điện/Điện tử,0.0,1.0,0.0,1,1
+Cao Bằng,Bán lẻ/Bán sỉ,0.0,7.0,0.0,8,8
+Cao Bằng,Bảo hiểm,0.0,1.0,0.0,1,1
+Cao Bằng,Cung cấp nhân lực,0.0,1.0,0.0,1,1
+Cao Bằng,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Cà Mau,Bán lẻ/Bán sỉ,0.0,6.0,2.0,7,7
+Cà Mau,Khác,0.0,1.0,1.0,1,1
+Cà Mau,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Cà Mau,Ngân hàng,0.0,3.0,1.0,4,4
+Cần Thơ,Bán lẻ/Bán sỉ,0.0,20.0,6.0,24,24
+Cần Thơ,Bảo hiểm,0.0,0.0,1.0,1,1
+Cần Thơ,Chuỗi cung ứng,0.0,1.0,1.0,2,2
+Cần Thơ,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Cần Thơ,Dệt may/May mặc/Giày dép,0.0,1.0,0.0,1,1
+Cần Thơ,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,2.0,1.0,3,3
+Cần Thơ,Dịch vụ môi trường/Chất thải,0.0,1.0,0.0,2,2
+Cần Thơ,Giáo dục/Đào Tạo,0.0,1.0,0.0,2,2
+Cần Thơ,Hoá chất/Hoá sinh,0.0,3.0,0.0,4,4
+Cần Thơ,Hậu cần/Giao nhận,0.0,0.0,1.0,2,2
+Cần Thơ,Khác,0.0,3.0,4.0,4,4
+Cần Thơ,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Cần Thơ,Ngân hàng,0.0,6.0,2.0,7,7
+Cần Thơ,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,1.0,1.0,1,1
+Cần Thơ,Truyền thông/Báo chí/Quảng cáo,0.0,4.0,1.0,4,4
+Cần Thơ,Điện/Điện tử,0.0,1.0,0.0,1,1
+Gia Lai,Bán lẻ/Bán sỉ,0.0,9.0,1.0,11,11
+Gia Lai,Bảo hiểm,0.0,2.0,0.0,2,2
+Gia Lai,Bất Động Sản/Cho thuê,0.0,0.0,1.0,1,1
+Gia Lai,Cung cấp nhân lực,0.0,2.0,0.0,2,2
+Gia Lai,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Gia Lai,Hoá chất/Hoá sinh,0.0,1.0,0.0,1,1
+Gia Lai,Khác,0.0,1.0,0.0,1,1
+Gia Lai,Kế toán/Kiểm toán,0.0,1.0,0.0,1,1
+Gia Lai,Ngân hàng,0.0,1.0,1.0,1,1
+Gia Lai,Điện/Điện tử,0.0,1.0,1.0,1,1
+Hà Giang,Bán lẻ/Bán sỉ,0.0,2.0,1.0,2,2
+Hà Giang,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,0.0,2.0,2,2
+Hà Giang,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,3.0,4,4
+Hà Giang,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1
+Hà Nam,Bán lẻ/Bán sỉ,0.0,9.0,3.0,11,11
+Hà Nam,Bảo hiểm,0.0,2.0,0.0,2,2
+Hà Nam,Bất Động Sản/Cho thuê,0.0,0.0,1.0,1,1
+Hà Nam,Chuỗi cung ứng,0.0,2.0,2.0,3,3
+Hà Nam,Cung cấp nhân lực,0.0,4.0,2.0,5,5
+Hà Nam,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,2.0,1.0,2,2
+Hà Nam,Dệt may/May mặc/Giày dép,0.0,1.0,0.0,1,1
+Hà Nam,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,3.0,1.0,4,4
+Hà Nam,Hoá chất/Hoá sinh,0.0,3.0,2.0,4,4
+Hà Nam,Hậu cần/Giao nhận,0.0,1.0,0.0,2,2
+Hà Nam,Khác,0.0,5.0,3.0,5,5
+Hà Nam,Kiến trúc/Thiết kế nội thất,0.0,2.0,1.0,2,2
+Hà Nam,Kế toán/Kiểm toán,0.0,4.0,1.0,4,4
+Hà Nam,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,2.0,1.0,3,3
+Hà Nam,Nghệ thuật/Giải trí,0.0,2.0,0.0,2,2
+Hà Nam,Ngân hàng,0.0,2.0,1.0,2,2
+Hà Nam,Sản xuất,0.0,2.0,7.0,8,8
+Hà Nam,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,2.0,2,2
+Hà Nam,Điện/Điện tử,0.0,1.0,2.0,2,2
+Hà Nội,Bao bì/In ấn/Dán nhãn,0.0,1.0,1.0,1,1
+Hà Nội,Bán lẻ/Bán sỉ,0.0,472.0,278.0,566,241
+Hà Nội,Bảo hiểm,0.0,26.0,20.0,31,34
+Hà Nội,Bất Động Sản/Cho thuê,0.0,34.0,34.0,31,47
+Hà Nội,Chuỗi cung ứng,0.0,28.0,16.0,45,42
+Hà Nội,Chính phủ & NGO,0.0,1.0,0.0,1,1
+Hà Nội,Chứng khoán,0.0,12.0,5.0,14,14
+Hà Nội,Cung cấp nhân lực,0.0,116.0,66.0,139,137
+Hà Nội,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,47.0,32.0,56,66
+Hà Nội,Dược phẩm,0.0,32.0,14.0,51,47
+Hà Nội,Dệt may/May mặc/Giày dép,0.0,8.0,5.0,6,8
+Hà Nội,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,43.0,14.0,69,51
+Hà Nội,Dịch vụ kho bãi,0.0,1.0,0.0,2,2
+Hà Nội,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,17.0,15.0,20,25
+Hà Nội,Dịch vụ môi trường/Chất thải,0.0,2.0,3.0,5,5
+Hà Nội,Giáo dục/Đào Tạo,0.0,48.0,18.0,77,68
+Hà Nội,Hoá chất/Hoá sinh,0.0,21.0,10.0,25,25
+Hà Nội,Hậu cần/Giao nhận,0.0,18.0,10.0,29,25
+Hà Nội,Hệ thống CNTT & Thiết bị,0.0,26.0,13.0,42,39
+Hà Nội,Khai khoáng/Dầu khí,0.0,6.0,3.0,5,6
+Hà Nội,Khác,0.0,106.0,63.0,106,117
+Hà Nội,Kiến trúc/Thiết kế nội thất,0.0,35.0,38.0,46,66
+Hà Nội,Kế toán/Kiểm toán,0.0,139.0,85.0,125,133
+Hà Nội,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,48.0,29.0,77,70
+Hà Nội,Luật/Dịch vụ pháp lý,0.0,48.0,22.0,58,62
+Hà Nội,Làm đẹp (Mỹ phẩm) & Chăm sóc cá nhân,0.0,1.0,0.0,1,1
+Hà Nội,Nghiên cứu,0.0,0.0,2.0,2,2
+Hà Nội,Nghệ thuật/Giải trí,0.0,37.0,23.0,44,46
+Hà Nội,Ngân hàng,0.0,113.0,63.0,136,125
+Hà Nội,Nhập khẩu/Xuất khẩu,0.0,14.0,6.0,13,16
+Hà Nội,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,1.0,1,1
+Hà Nội,Nội thất/Gỗ,0.0,0.0,5.0,6,6
+Hà Nội,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,75.0,46.0,120,91
+Hà Nội,Sản xuất,0.0,14.0,10.0,17,17
+Hà Nội,Thú y,0.0,0.0,1.0,1,1
+Hà Nội,Thương mại điện tử,0.0,7.0,5.0,11,10
+Hà Nội,Truyền thông/Báo chí/Quảng cáo,0.0,212.0,149.0,191,240
+Hà Nội,Tài Chính,0.0,14.0,11.0,22,21
+Hà Nội,Viễn thông,0.0,22.0,10.0,26,26
+Hà Nội,Điện/Điện tử,0.0,43.0,21.0,52,51
+Hà Tĩnh,Bán lẻ/Bán sỉ,0.0,15.0,3.0,18,18
+Hà Tĩnh,Bảo hiểm,0.0,1.0,0.0,1,1
+Hà Tĩnh,Chuỗi cung ứng,0.0,1.0,0.0,2,2
+Hà Tĩnh,Cung cấp nhân lực,0.0,1.0,0.0,1,1
+Hà Tĩnh,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,1.0,0.0,2,2
+Hà Tĩnh,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,2.0,2.0,3,3
+Hòa Bình,Bán lẻ/Bán sỉ,0.0,5.0,2.0,6,6
+Hòa Bình,Cung cấp nhân lực,0.0,1.0,0.0,1,1
+Hòa Bình,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,2.0,2,2
+Hòa Bình,Hậu cần/Giao nhận,0.0,1.0,0.0,2,2
+Hòa Bình,Khác,0.0,2.0,0.0,2,2
+Hòa Bình,Kiến trúc/Thiết kế nội thất,0.0,1.0,0.0,1,1
+Hòa Bình,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,1.0,2,2
+Hòa Bình,Ngân hàng,0.0,0.0,1.0,1,1
+Hòa Bình,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1
+Hưng Yên,Bán lẻ/Bán sỉ,0.0,26.0,6.0,31,30
+Hưng Yên,Bảo hiểm,0.0,1.0,0.0,1,1
+Hưng Yên,Chuỗi cung ứng,0.0,4.0,4.0,6,6
+Hưng Yên,Cung cấp nhân lực,0.0,3.0,4.0,5,5
+Hưng Yên,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,9.0,13.0,16,18
+Hưng Yên,Giáo dục/Đào Tạo,0.0,0.0,1.0,2,2
+Hưng Yên,Hoá chất/Hoá sinh,0.0,6.0,0.0,7,7
+Hưng Yên,Khai khoáng/Dầu khí,0.0,1.0,0.0,1,1
+Hưng Yên,Khác,0.0,5.0,4.0,5,5
+Hưng Yên,Kiến trúc/Thiết kế nội thất,0.0,0.0,1.0,1,1
+Hưng Yên,Kế toán/Kiểm toán,0.0,4.0,2.0,4,5
+Hưng Yên,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,2.0,3,3
+Hưng Yên,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Hưng Yên,Nghệ thuật/Giải trí,0.0,2.0,0.0,2,2
+Hưng Yên,Ngân hàng,0.0,0.0,1.0,1,1
+Hưng Yên,Nhập khẩu/Xuất khẩu,0.0,2.0,0.0,2,2
+Hưng Yên,Nội thất/Gỗ,0.0,0.0,1.0,1,1
+Hưng Yên,Sản xuất,0.0,4.0,8.0,10,10
+Hưng Yên,Truyền thông/Báo chí/Quảng cáo,0.0,4.0,2.0,4,4
+Hưng Yên,Viễn thông,0.0,2.0,1.0,2,2
+Hưng Yên,Điện/Điện tử,0.0,3.0,0.0,4,4
+Hải Dương,Bán lẻ/Bán sỉ,0.0,21.0,13.0,25,27
+Hải Dương,Bảo hiểm,0.0,1.0,0.0,1,1
+Hải Dương,Chuỗi cung ứng,0.0,1.0,0.0,2,2
+Hải Dương,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,4.0,2.0,5,5
+Hải Dương,Dệt may/May mặc/Giày dép,0.0,2.0,0.0,2,2
+Hải Dương,Giáo dục/Đào Tạo,0.0,1.0,0.0,2,2
+Hải Dương,Hoá chất/Hoá sinh,0.0,0.0,1.0,1,1
+Hải Dương,Khác,0.0,3.0,1.0,3,3
+Hải Dương,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,3.0,3.0,5,5
+Hải Dương,Nghiên cứu,0.0,1.0,0.0,1,1
+Hải Dương,Nghệ thuật/Giải trí,0.0,1.0,1.0,1,1
+Hải Dương,Ngân hàng,0.0,3.0,3.0,4,4
+Hải Dương,Nhập khẩu/Xuất khẩu,0.0,0.0,1.0,1,1
+Hải Dương,Sản xuất,0.0,5.0,2.0,6,6
+Hải Dương,Truyền thông/Báo chí/Quảng cáo,0.0,3.0,3.0,3,3
+Hải Dương,Viễn thông,0.0,1.0,0.0,1,1
+Hải Dương,Điện/Điện tử,0.0,1.0,1.0,1,1
+Hải Phòng,Bán lẻ/Bán sỉ,0.0,49.0,4.0,59,54
+Hải Phòng,Bảo hiểm,0.0,4.0,0.0,5,5
+Hải Phòng,Chuỗi cung ứng,0.0,5.0,2.0,8,8
+Hải Phòng,Cung cấp nhân lực,0.0,1.0,4.0,5,5
+Hải Phòng,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,3.0,3.0,4,4
+Hải Phòng,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,1.0,1.0,2,2
+Hải Phòng,Dịch vụ môi trường/Chất thải,0.0,1.0,0.0,2,2
+Hải Phòng,Giáo dục/Đào Tạo,0.0,3.0,1.0,5,5
+Hải Phòng,Hậu cần/Giao nhận,0.0,1.0,0.0,2,2
+Hải Phòng,Khác,0.0,9.0,3.0,9,10
+Hải Phòng,Kiến trúc/Thiết kế nội thất,0.0,4.0,1.0,5,5
+Hải Phòng,Kế toán/Kiểm toán,0.0,3.0,2.0,3,4
+Hải Phòng,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,5.0,1.0,8,7
+Hải Phòng,Luật/Dịch vụ pháp lý,0.0,1.0,1.0,1,1
+Hải Phòng,Nghệ thuật/Giải trí,0.0,1.0,1.0,1,1
+Hải Phòng,Ngân hàng,0.0,4.0,2.0,5,5
+Hải Phòng,Nhập khẩu/Xuất khẩu,0.0,2.0,1.0,2,2
+Hải Phòng,Sản xuất,0.0,1.0,1.0,1,1
+Hải Phòng,Truyền thông/Báo chí/Quảng cáo,0.0,4.0,1.0,4,4
+Hải Phòng,Điện/Điện tử,0.0,6.0,2.0,7,7
+Hậu Giang,Bán lẻ/Bán sỉ,0.0,3.0,0.0,4,4
+Hậu Giang,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Hậu Giang,Dược phẩm,0.0,3.0,0.0,5,5
+Hậu Giang,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,1.0,0.0,2,2
+Hậu Giang,Hoá chất/Hoá sinh,0.0,1.0,0.0,1,1
+Hậu Giang,Khác,0.0,0.0,2.0,2,2
+Hậu Giang,Ngân hàng,0.0,0.0,1.0,1,1
+Hồ Chí Minh,Bao bì/In ấn/Dán nhãn,0.0,2.0,0.0,2,2
+Hồ Chí Minh,Bán lẻ/Bán sỉ,0.0,621.0,300.0,745,245
+Hồ Chí Minh,Bảo hiểm,0.0,27.0,4.0,32,32
+Hồ Chí Minh,Bất Động Sản/Cho thuê,0.0,15.0,6.0,14,16
+Hồ Chí Minh,Chuỗi cung ứng,0.0,60.0,31.0,96,88
+Hồ Chí Minh,Chính phủ & NGO,0.0,2.0,0.0,2,2
+Hồ Chí Minh,Chứng khoán,0.0,5.0,5.0,6,7
+Hồ Chí Minh,Cung cấp nhân lực,0.0,139.0,62.0,167,123
+Hồ Chí Minh,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,117.0,48.0,140,119
+Hồ Chí Minh,Dược phẩm,0.0,36.0,21.0,58,55
+Hồ Chí Minh,Dệt may/May mặc/Giày dép,0.0,14.0,12.0,11,18
+Hồ Chí Minh,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,52.0,28.0,83,76
+Hồ Chí Minh,Dịch vụ kho bãi,0.0,1.0,1.0,2,2
+Hồ Chí Minh,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,38.0,23.0,46,48
+Hồ Chí Minh,Dịch vụ môi trường/Chất thải,0.0,11.0,5.0,18,14
+Hồ Chí Minh,Giáo dục/Đào Tạo,0.0,45.0,34.0,72,70
+Hồ Chí Minh,Hoá chất/Hoá sinh,0.0,67.0,20.0,80,75
+Hồ Chí Minh,Hậu cần/Giao nhận,0.0,11.0,4.0,18,16
+Hồ Chí Minh,Hệ thống CNTT & Thiết bị,0.0,11.0,5.0,18,16
+Hồ Chí Minh,Khai khoáng/Dầu khí,0.0,2.0,2.0,2,2
+Hồ Chí Minh,Khác,0.0,196.0,97.0,196,174
+Hồ Chí Minh,Kiến trúc/Thiết kế nội thất,0.0,49.0,13.0,59,59
+Hồ Chí Minh,Kế toán/Kiểm toán,0.0,132.0,67.0,119,128
+Hồ Chí Minh,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,34.0,19.0,54,51
+Hồ Chí Minh,Luật/Dịch vụ pháp lý,0.0,38.0,29.0,46,49
+Hồ Chí Minh,Làm đẹp (Mỹ phẩm) & Chăm sóc cá nhân,0.0,8.0,5.0,10,10
+Hồ Chí Minh,Nghiên cứu,0.0,2.0,1.0,2,2
+Hồ Chí Minh,Nghệ thuật/Giải trí,0.0,41.0,23.0,49,49
+Hồ Chí Minh,Ngân hàng,0.0,65.0,35.0,78,81
+Hồ Chí Minh,Nhập khẩu/Xuất khẩu,0.0,17.0,6.0,15,17
+Hồ Chí Minh,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,8.0,1.0,10,10
+Hồ Chí Minh,Nội thất/Gỗ,0.0,11.0,5.0,13,14
+Hồ Chí Minh,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,44.0,35.0,70,70
+Hồ Chí Minh,Sản xuất,0.0,41.0,13.0,49,49
+Hồ Chí Minh,Thú y,0.0,2.0,0.0,2,2
+Hồ Chí Minh,Thương mại điện tử,0.0,14.0,8.0,22,17
+Hồ Chí Minh,Truyền thông/Báo chí/Quảng cáo,0.0,381.0,174.0,343,282
+Hồ Chí Minh,Tài Chính,0.0,14.0,8.0,22,20
+Hồ Chí Minh,Viễn thông,0.0,18.0,5.0,22,22
+Hồ Chí Minh,Điện/Điện tử,0.0,45.0,25.0,54,55
+Khánh Hòa,Bán lẻ/Bán sỉ,0.0,19.0,5.0,23,23
+Khánh Hòa,Bảo hiểm,0.0,2.0,0.0,2,2
+Khánh Hòa,Cung cấp nhân lực,0.0,1.0,0.0,1,1
+Khánh Hòa,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,2.0,0.0,2,2
+Khánh Hòa,Dược phẩm,0.0,1.0,0.0,2,2
+Khánh Hòa,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,3.0,0.0,4,4
+Khánh Hòa,Hoá chất/Hoá sinh,0.0,1.0,0.0,1,1
+Khánh Hòa,Khác,0.0,4.0,0.0,4,4
+Khánh Hòa,Kiến trúc/Thiết kế nội thất,0.0,1.0,0.0,1,1
+Khánh Hòa,Kế toán/Kiểm toán,0.0,1.0,0.0,1,1
+Khánh Hòa,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,1.0,2,2
+Khánh Hòa,Luật/Dịch vụ pháp lý,0.0,2.0,1.0,2,2
+Khánh Hòa,Ngân hàng,0.0,10.0,4.0,12,12
+Khánh Hòa,Truyền thông/Báo chí/Quảng cáo,0.0,6.0,2.0,5,5
+Kiên Giang,Bán lẻ/Bán sỉ,0.0,14.0,6.0,17,17
+Kiên Giang,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,2.0,0.0,2,2
+Kiên Giang,Dịch vụ môi trường/Chất thải,0.0,0.0,1.0,2,2
+Kiên Giang,Khai khoáng/Dầu khí,0.0,0.0,1.0,1,1
+Kiên Giang,Khác,0.0,8.0,3.0,8,8
+Kiên Giang,Kiến trúc/Thiết kế nội thất,0.0,0.0,2.0,2,2
+Kiên Giang,Kế toán/Kiểm toán,0.0,1.0,4.0,4,4
+Kiên Giang,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,1.0,2,2
+Kiên Giang,Luật/Dịch vụ pháp lý,0.0,0.0,1.0,1,1
+Kiên Giang,Nghệ thuật/Giải trí,0.0,0.0,1.0,1,1
+Kiên Giang,Ngân hàng,0.0,4.0,2.0,5,5
+Kiên Giang,Điện/Điện tử,0.0,2.0,0.0,2,2
+Kon Tum,Bán lẻ/Bán sỉ,0.0,4.0,2.0,5,5
+Kon Tum,Bảo hiểm,0.0,1.0,0.0,1,1
+Kon Tum,Dịch vụ môi trường/Chất thải,0.0,1.0,0.0,2,2
+Kon Tum,Kế toán/Kiểm toán,0.0,1.0,0.0,1,1
+Kon Tum,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1
+Kon Tum,Điện/Điện tử,0.0,1.0,0.0,1,1
+Lai Châu,Bán lẻ/Bán sỉ,0.0,1.0,0.0,1,1
+Lai Châu,Khai khoáng/Dầu khí,0.0,0.0,1.0,1,1
+Lai Châu,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,1.0,2,2
+Long An,Bán lẻ/Bán sỉ,0.0,27.0,11.0,32,33
+Long An,Chuỗi cung ứng,0.0,6.0,4.0,10,9
+Long An,Cung cấp nhân lực,0.0,10.0,0.0,12,12
+Long An,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,24.0,9.0,29,29
+Long An,Dệt may/May mặc/Giày dép,0.0,1.0,0.0,1,1
+Long An,Dịch vụ môi trường/Chất thải,0.0,1.0,0.0,2,2
+Long An,Giáo dục/Đào Tạo,0.0,0.0,2.0,3,3
+Long An,Hoá chất/Hoá sinh,0.0,21.0,9.0,25,25
+Long An,Khai khoáng/Dầu khí,0.0,0.0,1.0,1,1
+Long An,Khác,0.0,14.0,8.0,14,15
+Long An,Kiến trúc/Thiết kế nội thất,0.0,0.0,1.0,1,1
+Long An,Kế toán/Kiểm toán,0.0,17.0,6.0,15,16
+Long An,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,2.0,2.0,3,3
+Long An,Luật/Dịch vụ pháp lý,0.0,2.0,0.0,2,2
+Long An,Nghệ thuật/Giải trí,0.0,4.0,0.0,5,5
+Long An,Ngân hàng,0.0,6.0,2.0,7,7
+Long An,Nhập khẩu/Xuất khẩu,0.0,3.0,1.0,3,4
+Long An,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,2.0,1.0,2,2
+Long An,Nội thất/Gỗ,0.0,1.0,0.0,1,1
+Long An,Sản xuất,0.0,15.0,11.0,18,18
+Long An,Thú y,0.0,0.0,1.0,1,1
+Long An,Truyền thông/Báo chí/Quảng cáo,0.0,6.0,2.0,5,5
+Long An,Điện/Điện tử,0.0,11.0,5.0,13,13
+Lào Cai,Bán lẻ/Bán sỉ,0.0,8.0,0.0,10,10
+Lào Cai,Bảo hiểm,0.0,1.0,0.0,1,1
+Lào Cai,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,0.0,1.0,1,1
+Lào Cai,Khai khoáng/Dầu khí,0.0,0.0,1.0,1,1
+Lào Cai,Khác,0.0,1.0,3.0,3,4
+Lào Cai,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,3.0,5,5
+Lào Cai,Ngân hàng,0.0,1.0,0.0,1,1
+Lào Cai,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1
+Lâm Đồng,Bán lẻ/Bán sỉ,0.0,18.0,4.0,22,22
+Lâm Đồng,Bất Động Sản/Cho thuê,0.0,0.0,2.0,2,2
+Lâm Đồng,Chuỗi cung ứng,0.0,1.0,0.0,2,2
+Lâm Đồng,Giáo dục/Đào Tạo,0.0,1.0,0.0,2,2
+Lâm Đồng,Khai khoáng/Dầu khí,0.0,1.0,1.0,1,1
+Lâm Đồng,Khác,0.0,4.0,1.0,4,4
+Lâm Đồng,Kiến trúc/Thiết kế nội thất,0.0,2.0,1.0,2,2
+Lâm Đồng,Kế toán/Kiểm toán,0.0,3.0,2.0,3,3
+Lâm Đồng,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,2.0,3,3
+Lâm Đồng,Ngân hàng,0.0,3.0,1.0,4,4
+Lâm Đồng,Sản xuất,0.0,0.0,1.0,1,1
+Lâm Đồng,Thú y,0.0,1.0,0.0,1,1
+Lâm Đồng,Truyền thông/Báo chí/Quảng cáo,0.0,0.0,2.0,2,2
+Lâm Đồng,Điện/Điện tử,0.0,1.0,1.0,1,1
+Lạng Sơn,Bán lẻ/Bán sỉ,0.0,3.0,2.0,4,4
+Lạng Sơn,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Lạng Sơn,Khác,0.0,1.0,0.0,1,1
+Lạng Sơn,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,1.0,2,2
+Lạng Sơn,Ngân hàng,0.0,0.0,1.0,1,1
+Lạng Sơn,Nhập khẩu/Xuất khẩu,0.0,0.0,1.0,1,1
+Nam Định,Bán lẻ/Bán sỉ,0.0,13.0,8.0,16,16
+Nam Định,Bảo hiểm,0.0,1.0,0.0,1,1
+Nam Định,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Nam Định,Khác,0.0,2.0,0.0,2,2
+Nam Định,Kế toán/Kiểm toán,0.0,1.0,0.0,1,1
+Nam Định,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Nam Định,Nghệ thuật/Giải trí,0.0,1.0,0.0,1,1
+Nam Định,Ngân hàng,0.0,0.0,1.0,1,1
+Nam Định,Sản xuất,0.0,1.0,1.0,1,1
+Nam Định,Truyền thông/Báo chí/Quảng cáo,0.0,0.0,2.0,2,2
+Nam Định,Điện/Điện tử,0.0,1.0,0.0,1,1
+Nghệ An,Bán lẻ/Bán sỉ,0.0,31.0,7.0,37,37
+Nghệ An,Bảo hiểm,0.0,2.0,0.0,2,2
+Nghệ An,Chuỗi cung ứng,0.0,3.0,0.0,5,5
+Nghệ An,Cung cấp nhân lực,0.0,1.0,3.0,4,4
+Nghệ An,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,0.0,4.0,5,5
+Nghệ An,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,1.0,0.0,1,1
+Nghệ An,Khác,0.0,2.0,1.0,2,2
+Nghệ An,Kiến trúc/Thiết kế nội thất,0.0,1.0,0.0,1,1
+Nghệ An,Kế toán/Kiểm toán,0.0,2.0,1.0,2,2
+Nghệ An,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,5.0,0.0,8,7
+Nghệ An,Nghệ thuật/Giải trí,0.0,1.0,0.0,1,1
+Nghệ An,Ngân hàng,0.0,1.0,4.0,5,5
+Nghệ An,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,3.0,4,4
+Nghệ An,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,1.0,0.0,2,2
+Nghệ An,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,3.0,3,3
+Nghệ An,Viễn thông,0.0,0.0,1.0,1,1
+Nghệ An,Điện/Điện tử,0.0,0.0,2.0,2,2
+Ninh Bình,Bán lẻ/Bán sỉ,0.0,18.0,8.0,22,23
+Ninh Bình,Bảo hiểm,0.0,3.0,0.0,4,4
+Ninh Bình,Cung cấp nhân lực,0.0,1.0,0.0,1,1
+Ninh Bình,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,1.0,0.0,2,2
+Ninh Bình,Khác,0.0,0.0,3.0,3,4
+Ninh Bình,Ngân hàng,0.0,2.0,0.0,2,2
+Ninh Bình,Điện/Điện tử,0.0,1.0,0.0,1,1
+Ninh Thuận,Bán lẻ/Bán sỉ,0.0,4.0,1.0,5,5
+Ninh Thuận,Cung cấp nhân lực,0.0,0.0,1.0,1,1
+Ninh Thuận,Khai khoáng/Dầu khí,0.0,0.0,1.0,1,1
+Ninh Thuận,Khác,0.0,3.0,0.0,3,3
+Ninh Thuận,Kiến trúc/Thiết kế nội thất,0.0,2.0,2.0,2,2
+Ninh Thuận,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,2.0,1.0,3,3
+Ninh Thuận,Ngân hàng,0.0,0.0,1.0,1,1
+Ninh Thuận,Truyền thông/Báo chí/Quảng cáo,0.0,3.0,0.0,3,3
+Ninh Thuận,Điện/Điện tử,0.0,1.0,0.0,1,1
+Phú Thọ,Bán lẻ/Bán sỉ,0.0,20.0,6.0,24,24
+Phú Thọ,Bảo hiểm,0.0,4.0,0.0,5,5
+Phú Thọ,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,1.0,2.0,2,2
+Phú Thọ,Khác,0.0,1.0,0.0,1,1
+Phú Thọ,Kế toán/Kiểm toán,0.0,1.0,0.0,1,1
+Phú Thọ,Ngân hàng,0.0,1.0,0.0,1,1
+Phú Thọ,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1
+Phú Yên,Bán lẻ/Bán sỉ,0.0,6.0,0.0,7,7
+Phú Yên,Bất Động Sản/Cho thuê,0.0,0.0,1.0,1,1
+Phú Yên,Cung cấp nhân lực,0.0,0.0,1.0,1,1
+Phú Yên,Khác,0.0,2.0,0.0,2,2
+Phú Yên,Ngân hàng,0.0,0.0,3.0,4,4
+Quảng Bình,Bán lẻ/Bán sỉ,0.0,9.0,1.0,11,11
+Quảng Bình,Chuỗi cung ứng,0.0,1.0,0.0,2,2
+Quảng Bình,Dược phẩm,0.0,1.0,0.0,2,2
+Quảng Bình,Giáo dục/Đào Tạo,0.0,1.0,0.0,2,2
+Quảng Bình,Khác,0.0,1.0,0.0,1,1
+Quảng Bình,Kiến trúc/Thiết kế nội thất,0.0,1.0,0.0,1,1
+Quảng Bình,Ngân hàng,0.0,3.0,1.0,4,4
+Quảng Bình,Truyền thông/Báo chí/Quảng cáo,0.0,2.0,0.0,2,2
+Quảng Nam,Bán lẻ/Bán sỉ,0.0,11.0,2.0,13,14
+Quảng Nam,Chuỗi cung ứng,0.0,1.0,1.0,2,2
+Quảng Nam,Khác,0.0,0.0,1.0,1,1
+Quảng Nam,Kiến trúc/Thiết kế nội thất,0.0,1.0,0.0,1,1
+Quảng Nam,Luật/Dịch vụ pháp lý,0.0,2.0,0.0,2,2
+Quảng Nam,Ngân hàng,0.0,0.0,1.0,1,1
+Quảng Nam,Điện/Điện tử,0.0,0.0,1.0,1,1
+Quảng Ngãi,Bán lẻ/Bán sỉ,0.0,10.0,2.0,12,12
+Quảng Ngãi,Chuỗi cung ứng,0.0,1.0,0.0,2,2
+Quảng Ngãi,Cung cấp nhân lực,0.0,0.0,3.0,4,4
+Quảng Ngãi,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,2.0,2.0,2,2
+Quảng Ngãi,Khác,0.0,1.0,1.0,1,1
+Quảng Ngãi,Kiến trúc/Thiết kế nội thất,0.0,1.0,0.0,1,1
+Quảng Ngãi,Kế toán/Kiểm toán,0.0,1.0,1.0,1,1
+Quảng Ngãi,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,0.0,2,2
+Quảng Ngãi,Luật/Dịch vụ pháp lý,0.0,1.0,1.0,1,1
+Quảng Ngãi,Ngân hàng,0.0,4.0,0.0,5,5
+Quảng Ngãi,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,0.0,1.0,2,2
+Quảng Ngãi,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,1.0,1,1
+Quảng Ngãi,Điện/Điện tử,0.0,1.0,1.0,1,1
+Quảng Ninh,Bán lẻ/Bán sỉ,0.0,33.0,11.0,40,41
+Quảng Ninh,Bảo hiểm,0.0,3.0,0.0,4,4
+Quảng Ninh,Bất Động Sản/Cho thuê,0.0,0.0,1.0,1,1
+Quảng Ninh,Chuỗi cung ứng,0.0,1.0,0.0,2,2
+Quảng Ninh,Cung cấp nhân lực,0.0,1.0,0.0,1,1
+Quảng Ninh,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,3.0,1.0,4,4
+Quảng Ninh,Giáo dục/Đào Tạo,0.0,2.0,1.0,3,3
+Quảng Ninh,Hoá chất/Hoá sinh,0.0,1.0,2.0,2,2
+Quảng Ninh,Khác,0.0,3.0,3.0,3,3
+Quảng Ninh,Kiến trúc/Thiết kế nội thất,0.0,2.0,1.0,2,2
+Quảng Ninh,Kế toán/Kiểm toán,0.0,0.0,1.0,1,1
+Quảng Ninh,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,4.0,2.0,6,6
+Quảng Ninh,Ngân hàng,0.0,7.0,0.0,8,8
+Quảng Ninh,Truyền thông/Báo chí/Quảng cáo,0.0,3.0,3.0,3,3
+Quảng Ninh,Điện/Điện tử,0.0,5.0,3.0,6,6
+Quảng Trị,Bán lẻ/Bán sỉ,0.0,11.0,0.0,13,15
+Quảng Trị,Khác,0.0,1.0,0.0,1,1
+Quảng Trị,Truyền thông/Báo chí/Quảng cáo,0.0,0.0,1.0,1,1
+Quảng Trị,Điện/Điện tử,0.0,1.0,0.0,1,1
+Sóc Trăng,Bán lẻ/Bán sỉ,0.0,5.0,2.0,6,6
+Sóc Trăng,Khác,0.0,3.0,0.0,3,3
+Sóc Trăng,Kế toán/Kiểm toán,0.0,1.0,0.0,1,1
+Sóc Trăng,Ngân hàng,0.0,5.0,1.0,6,6
+Sơn La,Bán lẻ/Bán sỉ,0.0,7.0,1.0,8,8
+Sơn La,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,0.0,1.0,1,1
+Sơn La,Khai khoáng/Dầu khí,0.0,0.0,1.0,1,1
+Sơn La,Khác,0.0,1.0,0.0,1,1
+Sơn La,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,1.0,2,2
+Sơn La,Điện/Điện tử,0.0,0.0,1.0,1,1
+Thanh Hóa,Bán lẻ/Bán sỉ,0.0,31.0,10.0,37,37
+Thanh Hóa,Bảo hiểm,0.0,4.0,0.0,5,5
+Thanh Hóa,Bất Động Sản/Cho thuê,0.0,1.0,0.0,1,1
+Thanh Hóa,Cung cấp nhân lực,0.0,2.0,1.0,2,2
+Thanh Hóa,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Thanh Hóa,Dệt may/May mặc/Giày dép,0.0,1.0,0.0,1,1
+Thanh Hóa,Giáo dục/Đào Tạo,0.0,1.0,1.0,2,2
+Thanh Hóa,Khác,0.0,2.0,1.0,2,2
+Thanh Hóa,Kiến trúc/Thiết kế nội thất,0.0,1.0,0.0,1,1
+Thanh Hóa,Luật/Dịch vụ pháp lý,0.0,2.0,0.0,2,2
+Thanh Hóa,Nghệ thuật/Giải trí,0.0,0.0,1.0,1,1
+Thanh Hóa,Ngân hàng,0.0,7.0,2.0,8,8
+Thanh Hóa,Truyền thông/Báo chí/Quảng cáo,0.0,3.0,1.0,3,3
+Thanh Hóa,Điện/Điện tử,0.0,1.0,1.0,1,1
+Thái Bình,Bán lẻ/Bán sỉ,0.0,20.0,10.0,24,24
+Thái Bình,Bảo hiểm,0.0,3.0,0.0,4,4
+Thái Bình,Cung cấp nhân lực,0.0,0.0,1.0,1,1
+Thái Bình,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,0.0,1.0,1,1
+Thái Bình,Khác,0.0,1.0,0.0,1,1
+Thái Bình,Kế toán/Kiểm toán,0.0,1.0,1.0,1,1
+Thái Bình,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,1.0,2,2
+Thái Bình,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Thái Bình,Ngân hàng,0.0,3.0,0.0,4,4
+Thái Bình,Nhập khẩu/Xuất khẩu,0.0,0.0,1.0,1,1
+Thái Bình,Sản xuất,0.0,0.0,1.0,1,1
+Thái Bình,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,1.0,1,1
+Thái Nguyên,Bán lẻ/Bán sỉ,0.0,23.0,6.0,28,26
+Thái Nguyên,Bảo hiểm,0.0,1.0,0.0,1,1
+Thái Nguyên,Chuỗi cung ứng,0.0,1.0,0.0,2,2
+Thái Nguyên,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,1.0,1,1
+Thái Nguyên,Giáo dục/Đào Tạo,0.0,1.0,0.0,2,2
+Thái Nguyên,Hoá chất/Hoá sinh,0.0,2.0,1.0,2,2
+Thái Nguyên,Khai khoáng/Dầu khí,0.0,1.0,0.0,1,1
+Thái Nguyên,Khác,0.0,1.0,1.0,1,1
+Thái Nguyên,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,0.0,2.0,3,3
+Thái Nguyên,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Thái Nguyên,Ngân hàng,0.0,4.0,1.0,5,5
+Thái Nguyên,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1
+Thừa Thiên - Huế,Bán lẻ/Bán sỉ,0.0,19.0,7.0,23,23
+Thừa Thiên - Huế,Bảo hiểm,0.0,6.0,0.0,7,7
+Thừa Thiên - Huế,Bất Động Sản/Cho thuê,0.0,2.0,0.0,2,2
+Thừa Thiên - Huế,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,0.0,4.0,5,5
+Thừa Thiên - Huế,Dịch vụ kho bãi,0.0,2.0,0.0,3,3
+Thừa Thiên - Huế,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,0.0,2.0,2,2
+Thừa Thiên - Huế,Hoá chất/Hoá sinh,0.0,2.0,0.0,2,2
+Thừa Thiên - Huế,Hệ thống CNTT & Thiết bị,0.0,2.0,0.0,3,3
+Thừa Thiên - Huế,Khác,0.0,8.0,2.0,8,8
+Thừa Thiên - Huế,Kế toán/Kiểm toán,0.0,2.0,2.0,2,2
+Thừa Thiên - Huế,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Thừa Thiên - Huế,Ngân hàng,0.0,5.0,2.0,6,6
+Thừa Thiên - Huế,Truyền thông/Báo chí/Quảng cáo,0.0,2.0,0.0,2,2
+Tiền Giang,Bán lẻ/Bán sỉ,0.0,22.0,8.0,26,26
+Tiền Giang,Cung cấp nhân lực,0.0,0.0,1.0,1,1
+Tiền Giang,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,2.0,0.0,2,2
+Tiền Giang,Dược phẩm,0.0,1.0,0.0,2,2
+Tiền Giang,Dệt may/May mặc/Giày dép,0.0,1.0,0.0,1,1
+Tiền Giang,Khác,0.0,4.0,1.0,4,4
+Tiền Giang,Kế toán/Kiểm toán,0.0,2.0,1.0,2,2
+Tiền Giang,Nghệ thuật/Giải trí,0.0,1.0,0.0,1,1
+Tiền Giang,Ngân hàng,0.0,4.0,0.0,5,5
+Tiền Giang,Sản xuất,0.0,0.0,1.0,1,1
+Tiền Giang,Truyền thông/Báo chí/Quảng cáo,0.0,4.0,0.0,4,4
+Tiền Giang,Điện/Điện tử,0.0,0.0,1.0,1,1
+Trà Vinh,Bán lẻ/Bán sỉ,0.0,6.0,1.0,7,7
+Trà Vinh,Khác,0.0,0.0,2.0,2,2
+Trà Vinh,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,0.0,2,2
+Trà Vinh,Ngân hàng,0.0,1.0,0.0,1,1
+Trà Vinh,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,0.0,1.0,1,1
+Trà Vinh,Truyền thông/Báo chí/Quảng cáo,0.0,0.0,1.0,1,1
+Tuyên Quang,Bán lẻ/Bán sỉ,0.0,6.0,0.0,7,7
+Tuyên Quang,Khác,0.0,0.0,1.0,1,1
+Tuyên Quang,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,0.0,2,2
+Tuyên Quang,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1
+Tây Ninh,Bán lẻ/Bán sỉ,0.0,22.0,2.0,26,26
+Tây Ninh,Bất Động Sản/Cho thuê,0.0,1.0,1.0,1,1
+Tây Ninh,Chuỗi cung ứng,0.0,0.0,1.0,2,2
+Tây Ninh,Cung cấp nhân lực,0.0,1.0,0.0,1,1
+Tây Ninh,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,4.0,0.0,5,5
+Tây Ninh,Dịch vụ môi trường/Chất thải,0.0,2.0,1.0,3,3
+Tây Ninh,Hoá chất/Hoá sinh,0.0,1.0,0.0,1,1
+Tây Ninh,Hậu cần/Giao nhận,0.0,0.0,1.0,2,2
+Tây Ninh,Khác,0.0,4.0,1.0,4,4
+Tây Ninh,Kế toán/Kiểm toán,0.0,0.0,1.0,1,1
+Tây Ninh,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,0.0,2,2
+Tây Ninh,Nghiên cứu,0.0,1.0,0.0,1,1
+Tây Ninh,Nghệ thuật/Giải trí,0.0,0.0,1.0,1,1
+Tây Ninh,Ngân hàng,0.0,1.0,0.0,1,1
+Tây Ninh,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,1.0,1.0,1,1
+Tây Ninh,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,0.0,1.0,2,2
+Tây Ninh,Sản xuất,0.0,1.0,2.0,2,2
+Tây Ninh,Thú y,0.0,1.0,0.0,1,1
+Tây Ninh,Truyền thông/Báo chí/Quảng cáo,0.0,2.0,3.0,3,3
+Tây Ninh,Điện/Điện tử,0.0,4.0,1.0,5,5
+Vĩnh Long,Bán lẻ/Bán sỉ,0.0,8.0,0.0,10,10
+Vĩnh Long,Bất Động Sản/Cho thuê,0.0,1.0,0.0,1,1
+Vĩnh Long,Chuỗi cung ứng,0.0,1.0,0.0,2,2
+Vĩnh Long,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Vĩnh Long,Khác,0.0,0.0,1.0,1,1
+Vĩnh Long,Ngân hàng,0.0,0.0,1.0,1,1
+Vĩnh Phúc,Bán lẻ/Bán sỉ,0.0,20.0,3.0,24,24
+Vĩnh Phúc,Bảo hiểm,0.0,2.0,0.0,2,2
+Vĩnh Phúc,Cung cấp nhân lực,0.0,1.0,1.0,1,1
+Vĩnh Phúc,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,0.0,3.0,4,4
+Vĩnh Phúc,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,1.0,1.0,2,2
+Vĩnh Phúc,Giáo dục/Đào Tạo,0.0,1.0,1.0,2,2
+Vĩnh Phúc,Hậu cần/Giao nhận,0.0,0.0,1.0,2,2
+Vĩnh Phúc,Khác,0.0,2.0,5.0,5,6
+Vĩnh Phúc,Kế toán/Kiểm toán,0.0,1.0,0.0,1,1
+Vĩnh Phúc,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Vĩnh Phúc,Nghệ thuật/Giải trí,0.0,1.0,0.0,1,1
+Vĩnh Phúc,Ngân hàng,0.0,1.0,0.0,1,1
+Vĩnh Phúc,Nhập khẩu/Xuất khẩu,0.0,1.0,0.0,1,1
+Vĩnh Phúc,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1
+Vĩnh Phúc,Điện/Điện tử,0.0,2.0,0.0,2,2
+Yên Bái,Bán lẻ/Bán sỉ,0.0,7.0,1.0,8,8
+Yên Bái,Bảo hiểm,0.0,1.0,0.0,1,1
+Yên Bái,Cung cấp nhân lực,0.0,1.0,0.0,1,1
+Yên Bái,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,1.0,0.0,2,2
+Yên Bái,Kế toán/Kiểm toán,0.0,1.0,1.0,1,1
+Yên Bái,Sản xuất,0.0,1.0,0.0,1,1
+Điện Biên,Bán lẻ/Bán sỉ,0.0,3.0,1.0,4,4
+Đà Nẵng,Bán lẻ/Bán sỉ,0.0,32.0,6.0,38,37
+Đà Nẵng,Bảo hiểm,0.0,2.0,0.0,2,2
+Đà Nẵng,Bất Động Sản/Cho thuê,0.0,1.0,2.0,2,2
+Đà Nẵng,Chuỗi cung ứng,0.0,2.0,1.0,3,3
+Đà Nẵng,Cung cấp nhân lực,0.0,2.0,1.0,2,2
+Đà Nẵng,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,3.0,1.0,4,4
+Đà Nẵng,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,1.0,1.0,2,2
+Đà Nẵng,Dịch vụ lưu trú/Nhà hàng/Khách sạn/Du lịch,0.0,4.0,2.0,5,5
+Đà Nẵng,Giáo dục/Đào Tạo,0.0,1.0,0.0,2,2
+Đà Nẵng,Hoá chất/Hoá sinh,0.0,2.0,0.0,2,2
+Đà Nẵng,Hậu cần/Giao nhận,0.0,1.0,0.0,2,2
+Đà Nẵng,Khai khoáng/Dầu khí,0.0,0.0,1.0,1,1
+Đà Nẵng,Khác,0.0,3.0,1.0,3,3
+Đà Nẵng,Kiến trúc/Thiết kế nội thất,0.0,0.0,3.0,4,4
+Đà Nẵng,Kế toán/Kiểm toán,0.0,5.0,2.0,4,5
+Đà Nẵng,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,2.0,0.0,3,3
+Đà Nẵng,Luật/Dịch vụ pháp lý,0.0,1.0,0.0,1,1
+Đà Nẵng,Nghệ thuật/Giải trí,0.0,2.0,0.0,2,2
+Đà Nẵng,Ngân hàng,0.0,2.0,3.0,4,4
+Đà Nẵng,Truyền thông/Báo chí/Quảng cáo,0.0,5.0,6.0,5,6
+Đà Nẵng,Tài Chính,0.0,2.0,0.0,3,2
+Đà Nẵng,Điện/Điện tử,0.0,2.0,0.0,2,2
+Đắk Lắk,Bán lẻ/Bán sỉ,0.0,11.0,4.0,13,14
+Đắk Lắk,Bảo hiểm,0.0,3.0,0.0,4,4
+Đắk Lắk,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Đắk Lắk,Dược phẩm,0.0,1.0,0.0,2,2
+Đắk Lắk,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,1.0,0.0,2,2
+Đắk Lắk,Giáo dục/Đào Tạo,0.0,1.0,2.0,3,3
+Đắk Lắk,Hoá chất/Hoá sinh,0.0,0.0,1.0,1,1
+Đắk Lắk,Hậu cần/Giao nhận,0.0,1.0,0.0,2,2
+Đắk Lắk,Khác,0.0,2.0,0.0,2,2
+Đắk Lắk,Kế toán/Kiểm toán,0.0,0.0,1.0,1,1
+Đắk Lắk,Ngân hàng,0.0,1.0,2.0,2,2
+Đắk Lắk,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,1.0,0.0,1,1
+Đắk Lắk,Sản xuất,0.0,0.0,1.0,1,1
+Đắk Lắk,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,2.0,2,2
+Đắk Lắk,Điện/Điện tử,0.0,1.0,1.0,1,1
+Đắk Nông,Bán lẻ/Bán sỉ,0.0,7.0,0.0,8,8
+Đắk Nông,Khác,0.0,1.0,0.0,1,1
+Đắk Nông,Truyền thông/Báo chí/Quảng cáo,0.0,0.0,1.0,1,1
+Đắk Nông,Điện/Điện tử,0.0,0.0,1.0,1,1
+Đồng Nai,Bao bì/In ấn/Dán nhãn,0.0,1.0,0.0,1,1
+Đồng Nai,Bán lẻ/Bán sỉ,0.0,36.0,8.0,43,41
+Đồng Nai,Chuỗi cung ứng,0.0,10.0,1.0,16,11
+Đồng Nai,Cung cấp nhân lực,0.0,24.0,7.0,29,29
+Đồng Nai,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,44.0,15.0,53,52
+Đồng Nai,Dược phẩm,0.0,1.0,0.0,2,2
+Đồng Nai,Dệt may/May mặc/Giày dép,0.0,1.0,0.0,1,1
+Đồng Nai,Dịch vụ Y tế/Chăm sóc sức khỏe,0.0,3.0,2.0,5,5
+Đồng Nai,Dịch vụ kho bãi,0.0,0.0,1.0,2,2
+Đồng Nai,Dịch vụ môi trường/Chất thải,0.0,1.0,0.0,2,2
+Đồng Nai,Giáo dục/Đào Tạo,0.0,20.0,8.0,32,24
+Đồng Nai,Hoá chất/Hoá sinh,0.0,16.0,1.0,19,19
+Đồng Nai,Hậu cần/Giao nhận,0.0,2.0,0.0,3,3
+Đồng Nai,Hệ thống CNTT & Thiết bị,0.0,1.0,0.0,2,2
+Đồng Nai,Khác,0.0,28.0,9.0,28,31
+Đồng Nai,Kiến trúc/Thiết kế nội thất,0.0,1.0,2.0,2,2
+Đồng Nai,Kế toán/Kiểm toán,0.0,9.0,6.0,8,9
+Đồng Nai,Kỹ thuật xây dựng/Cơ sở hạ tầng,0.0,1.0,3.0,5,5
+Đồng Nai,Luật/Dịch vụ pháp lý,0.0,3.0,0.0,4,4
+Đồng Nai,Nghiên cứu,0.0,1.0,0.0,1,1
+Đồng Nai,Nghệ thuật/Giải trí,0.0,0.0,2.0,2,2
+Đồng Nai,Ngân hàng,0.0,6.0,3.0,7,7
+Đồng Nai,Nhập khẩu/Xuất khẩu,0.0,2.0,1.0,2,2
+Đồng Nai,Nông nghiệp/Lâm nghiệp/Nuôi trồng thủy sản,0.0,1.0,1.0,1,1
+Đồng Nai,Nội thất/Gỗ,0.0,2.0,1.0,2,2
+Đồng Nai,Phần Mềm CNTT/Dịch vụ Phần mềm,0.0,5.0,1.0,8,8
+Đồng Nai,Sản xuất,0.0,21.0,3.0,25,25
+Đồng Nai,Thú y,0.0,1.0,0.0,1,1
+Đồng Nai,Truyền thông/Báo chí/Quảng cáo,0.0,8.0,6.0,7,8
+Đồng Nai,Điện/Điện tử,0.0,8.0,5.0,10,9
+Đồng Tháp,Bán lẻ/Bán sỉ,0.0,20.0,1.0,24,24
+Đồng Tháp,Bảo hiểm,0.0,1.0,0.0,1,1
+Đồng Tháp,Cung cấp nhân lực,0.0,1.0,0.0,1,1
+Đồng Tháp,Cơ khí/Máy móc/Thiết bị công nghiệp,0.0,1.0,0.0,1,1
+Đồng Tháp,Khác,0.0,0.0,1.0,1,1
+Đồng Tháp,Kế toán/Kiểm toán,0.0,1.0,1.0,1,1
+Đồng Tháp,Ngân hàng,0.0,0.0,1.0,1,1
+Đồng Tháp,Sản xuất,0.0,2.0,0.0,2,2
+Đồng Tháp,Thú y,0.0,0.0,1.0,1,1
+Đồng Tháp,Truyền thông/Báo chí/Quảng cáo,0.0,1.0,0.0,1,1

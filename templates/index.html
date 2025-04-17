@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Job Demand Prediction</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        /* Container div to center all content */
+        .container {
+            width: 900px;
+            margin: 0 auto; /* this centers the div horizontally */
+            text-align: center;
+        }
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Chọn khu vực để dự đoán nhu cầu nhân lực:</h2>
+        <select id="provinceSelect">
+            {% for province in provinces %}
+                <option value="{{province}}">{{province}}</option>
+            {% endfor %}
+        </select>
+        <button onclick="showPrediction()">Dự đoán</button>
+
+        <div id="pieChart" style="width:850px;height:650px;margin-top:20px;"></div>
+
+        <div id="dataTable"></div>
+    </div>
+
+    <script>
+        function showPrediction() {
+            let province = document.getElementById('provinceSelect').value;
+            fetch('/get_pie_chart_data', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({province: province})
+            })
+            .then(response => response.json())
+            .then(data => {
+                // Pie Chart without percentage labels
+                let plotData = [{
+                    values: data.values,
+                    labels: data.labels,
+                    type: 'pie',
+                    textinfo: 'none', // still no labels on the pie itself
+                    hoverinfo: 'label+value+percent', // <-- this adds percentage on hover
+                    marker: { colors: Plotly.d3.schemeCategory20 }
+                }];
+
+
+                let layout = {
+                    title: `Nhu cầu nhân lực các ngành nghề tháng 4/2025 ở ${province}`,
+                    height: 650,
+                    width: 850,
+                    margin: {l: 100, r: 100, b: 100, t: 100},
+                    showlegend: true
+                };
+
+                Plotly.newPlot('pieChart', plotData, layout);
+
+                // Generating Table clearly displaying data
+                let tableHTML = `
+                    <table>
+                        <tr>
+                            <th>Ngành nghề</th>
+                            <th>Nhu cầu</th>
+                            <th>Tỉ trọng (%)</th>
+                        </tr>
+                `;
+
+                for (let i = 0; i < data.labels.length; i++) {
+                    tableHTML += `
+                        <tr>
+                            <td>${data.labels[i]}</td>
+                            <td>${data.values[i]}</td>
+                            <td>${data.percentages[i]}%</td>
+                        </tr>
+                    `;
+                }
+
+                tableHTML += '</table>';
+
+                document.getElementById('dataTable').innerHTML = tableHTML;
+            });
+        }
+    </script>
+</body>
+</html>
