@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, jsonify
 import pandas as pd
 from pymongo import MongoClient
 import os
-
+import json
 
 app = Flask(__name__)
 
@@ -16,52 +16,72 @@ collection = db['april_prediction']
 # Convert Mongo collection to DataFrame
 df = pd.DataFrame(list(collection.find({}, {'_id': 0})))
 
+# Build a nested dict: province → { job_major → April_Prediction }
+province_job_dict = (
+    df
+    .groupby('workingLocations')
+    .apply(lambda g: dict(zip(
+        g['job_major'],
+        g['April_Prediction'].astype(int)
+    )))
+    .to_dict()
+)
+
+# (Optional) write it out for inspection
+with open('province_job_demand.json', 'w', encoding='utf-8') as f:
+    json.dump(province_job_dict, f, ensure_ascii=False, indent=2)
+
 @app.route('/')
 def index():
     provinces = df['workingLocations'].unique()
     job_majors = df['job_major'].unique()
     return render_template('index.html', provinces=provinces, job_majors=job_majors)
 
+@app.route('/get_pareto_data', methods=['GET','POST'])
+def get_pareto_data():
+    if request.method == 'GET':
+        return "POST only", 400
 
-@app.route('/get_pie_chart_data', methods=['POST'])
-def get_pie_chart_data():
-    province = request.json['province']
-    job_major = request.json.get('job_major', 'Tất cả')
+    province  = request.json.get('province')
+    job_major = request.json.get('job_major','Tất cả')
 
-    filtered_df = df[df['workingLocations'] == province]
-
+    # --- specific‐job branch: look up April_Prediction from our dict ---
     if job_major != 'Tất cả':
-        filtered_df = filtered_df[filtered_df['job_major'] == job_major]
-        if not filtered_df.empty:
-            value = int(filtered_df['April_Prediction'].values[0])
-            return jsonify({
-                'type': 'single_value',
-                'location': province,
-                'job_major': job_major,
-                'value': value
-            })
+        row = df[
+            (df['workingLocations'] == province) &
+            (df['job_major']       == job_major)
+        ]
+        months = ["Tháng 1","Tháng 2","Tháng 3","Tháng 4"]
+        if not row.empty:
+            vals = [
+              float(row.iloc[0]['January']),
+              float(row.iloc[0]['February']),
+              float(row.iloc[0]['March']),
+              int  (row.iloc[0]['April_Prediction'])
+            ]
         else:
-            return jsonify({
-                'type': 'single_value',
-                'location': province,
-                'job_major': job_major,
-                'value': 0
-            })
+            vals = [0,0,0,0]
 
-    # Show pie chart for all majors if 'Tất cả' is selected
-    total = filtered_df['April_Prediction'].sum()
-    pie_data = filtered_df[['job_major', 'April_Prediction']].copy()
-    pie_data['percentage'] = (pie_data['April_Prediction'] / total * 100).round(2)
+        return jsonify({
+            'type'     : 'series',
+            'location' : province,
+            'job_major': job_major,
+            'months'   : months,
+            'values'   : vals
+        })
+
+    # --- "all majors" branch: build bar‐chart data from our dict ---
+    majors_dict = province_job_dict.get(province, {})
+    labels = list(majors_dict.keys())
+    values = list(majors_dict.values())
 
     return jsonify({
-        'type': 'pie',
-        'labels': pie_data['job_major'].tolist(),
-        'values': pie_data['April_Prediction'].tolist(),
-        'percentages': pie_data['percentage'].tolist()
+        'type': 'pareto',
+        'labels': labels,
+        'values': values
     })
 
 
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 10000))  # Render will set PORT env var
+    port = int(os.environ.get('PORT', 10000))
     app.run(host='0.0.0.0', port=port)
-
